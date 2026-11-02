@@ -1,0 +1,131 @@
+{
+  "schema": "ch.licenses/1",
+  "updated": "2026-11-02",
+  "policy": "Every library/catalog.json asset used in a master render must carry a license record. Stingers are channel-generated (procedural). Pack sfx/music ship under the channel-owned GDC Game Audio Bundle 2026 license.",
+  "records": [
+    {
+      "assetId": "stg_entry_riser",
+      "kind": "stinger",
+      "origin": "pipeline/make_stingers.py (procedural, seed 20261101)",
+      "licenseType": "Channel-authored (procedural generation)",
+      "rights": "All rights held by the channel."
+    },
+    {
+      "assetId": "stg_tick_clack",
+      "kind": "stinger",
+      "origin": "pipeline/make_stingers.py (procedural, seed 20261101)",
+      "licenseType": "Channel-authored (procedural generation)",
+      "rights": "All rights held by the channel."
+    },
+    {
+      "assetId": "stg_whoosh",
+      "kind": "stinger",
+      "origin": "pipeline/make_stingers.py (procedural, seed 20261101)",
+      "licenseType": "Channel-authored (procedural generation)",
+      "rights": "All rights held by the channel."
+    },
+    {
+      "assetId": "stg_qc_triplet",
+      "kind": "stinger",
+      "origin": "pipeline/make_stingers.py (procedural, seed 20261101)",
+      "licenseType": "Channel-authored (procedural generation)",
+      "rights": "All rights held by the channel."
+    },
+    {
+      "assetId": "sfx_ice_crack_snap",
+      "kind": "sfx",
+      "origin": "Alexander Kopeikin - 100 kHz Designed Ice",
+      "licenseType": "GDC Game Audio Bundle 2026 (channel-owned license)",
+      "pack": "Alexander Kopeikin - 100 kHz Designed Ice",
+      "rights": "Redistribution/embedding in channel productions permitted by the bundle license terms."
+    },
+    {
+      "assetId": "sfx_card_flip",
+      "kind": "sfx",
+      "origin": "Epic Stock Media - Board Game Sound Set Kit",
+      "licenseType": "GDC Game Audio Bundle 2026 (channel-owned license)",
+      "pack": "Epic Stock Media - Board Game - Sound Set Kit for Tabletop and Digital Games",
+      "rights": "Redistribution/embedding in channel productions permitted by the bundle license terms."
+    },
+    {
+      "assetId": "sfx_ui_accept_glassy",
+      "kind": "sfx",
+      "origin": "Cinematic Sound Design - Interface & Infographics",
+      "licenseType": "GDC Game Audio Bundle 2026 (channel-owned license)",
+      "pack": "Cinematic Sound Design - Interface & Infographics",
+      "rights": "Redistribution/embedding in channel productions permitted by the bundle license terms."
+    },
+    {
+      "assetId": "sfx_ui_deny_low",
+      "kind": "sfx",
+      "origin": "Cinematic Sound Design - System & UI Feedback Elements",
+      "licenseType": "GDC Game Audio Bundle 2026 (channel-owned license)",
+      "pack": "Cinematic Sound Design - System & UI Feedback Elements",
+      "rights": "Redistribution/embedding in channel productions permitted by the bundle license terms."
+    },
+    {
+      "assetId": "sfx_boom_a",
+      "kind": "sfx",
+      "origin": "Federico Soler - Effective Trailer Booms Vol. 2",
+      "licenseType": "GDC Game Audio Bundle 2026 (channel-owned license)",
+      "pack": "Federico Soler - Effective Trailer Booms Vol. 2",
+      "rights": "Redistribution/embedding in channel productions permitted by the bundle license terms."
+    },
+    {
+      "assetId": "sfx_boom_b",
+      "kind": "sfx",
+      "origin": "Federico Soler - Effective Trailer Booms Vol. 2",
+      "licenseType": "GDC Game Audio Bundle 2026 (channel-owned license)",
+      "pack": "Federico Soler - Effective Trailer Booms Vol. 2",
+      "rights": "Redistribution/embedding in channel productions permitted by the bundle license terms."
+    },
+    {
+      "assetId": "sfx_arp_reveal_down",
+      "kind": "sfx",
+      "origin": "Cinematic Sound Design - System & UI Feedback Elements",
+      "licenseType": "GDC Game Audio Bundle 2026 (channel-owned license)",
+      "pack": "Cinematic Sound Design - System & UI Feedback Elements",
+      "rights": "Redistribution/embedding in channel productions permitted by the bundle license terms."
+    },
+    {
+      "assetId": "sfx_debris_woosh",
+      "kind": "sfx",
+      "origin": "Cinematic Sound Design - Colossal Impacts",
+      "licenseType": "GDC Game Audio Bundle 2026 (channel-owned license)",
+      "pack": "Cinematic Sound Design - Colossal Impacts",
+      "rights": "Redistribution/embedding in channel productions permitted by the bundle license terms."
+    },
+    {
+      "assetId": "sfx_magic_astonish",
+      "kind": "sfx",
+      "origin": "Alexander Kopeikin - Emotion and Magic",
+      "licenseType": "GDC Game Audio Bundle 2026 (channel-owned license)",
+      "pack": "Alexander Kopeikin - Emotion and Magic",
+      "rights": "Redistribution/embedding in channel productions permitted by the bundle license terms."
+    },
+    {
+      "assetId": "sfx_ui_double_click",
+      "kind": "sfx",
+      "origin": "Epic Stock Media - Board Game Sound Set Kit",
+      "licenseType": "GDC Game Audio Bundle 2026 (channel-owned license)",
+      "pack": "Epic Stock Media - Board Game - Sound Set Kit for Tabletop and Digital Games",
+      "rights": "Redistribution/embedding in channel productions permitted by the bundle license terms."
+    },
+    {
+      "assetId": "mus_cosmic_drone",
+      "kind": "music",
+      "origin": "Alexander Kopeikin - Emotion and Magic",
+      "licenseType": "GDC Game Audio Bundle 2026 (channel-owned license)",
+      "pack": "Alexander Kopeikin - Emotion and Magic",
+      "rights": "Redistribution/embedding in channel productions permitted by the bundle license terms."
+    },
+    {
+      "assetId": "mus_dark_amb",
+      "kind": "music",
+      "origin": "Cinematic Sound Design - Sci-Fi Drones",
+      "licenseType": "GDC Game Audio Bundle 2026 (channel-owned license)",
+      "pack": "Cinematic Sound Design - Sci-Fi Drones",
+      "rights": "Redistribution/embedding in channel productions permitted by the bundle license terms."
+    }
+  ]
+}

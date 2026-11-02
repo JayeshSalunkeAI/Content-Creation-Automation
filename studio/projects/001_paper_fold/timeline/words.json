@@ -1,0 +1,585 @@
+{
+ "source": "whisper:small.en+script",
+ "words": [
+  {
+   "word": "What",
+   "start": 0.0,
+   "end": 0.34
+  },
+  {
+   "word": "if",
+   "start": 0.34,
+   "end": 0.44
+  },
+  {
+   "word": "you",
+   "start": 0.44,
+   "end": 0.6
+  },
+  {
+   "word": "folded",
+   "start": 0.6,
+   "end": 0.88
+  },
+  {
+   "word": "this",
+   "start": 0.88,
+   "end": 1.12
+  },
+  {
+   "word": "piece",
+   "start": 1.12,
+   "end": 1.32
+  },
+  {
+   "word": "of",
+   "start": 1.32,
+   "end": 1.52
+  },
+  {
+   "word": "paper...",
+   "start": 1.52,
+   "end": 1.82
+  },
+  {
+   "word": "a",
+   "start": 1.82,
+   "end": 2.2
+  },
+  {
+   "word": "thousand",
+   "start": 2.2,
+   "end": 2.54
+  },
+  {
+   "word": "times?",
+   "start": 2.54,
+   "end": 2.98
+  },
+  {
+   "word": "Here's",
+   "start": 4.08,
+   "end": 4.42
+  },
+  {
+   "word": "what",
+   "start": 4.42,
+   "end": 4.54
+  },
+  {
+   "word": "really",
+   "start": 4.54,
+   "end": 4.74
+  },
+  {
+   "word": "happens.",
+   "start": 4.74,
+   "end": 5.22
+  },
+  {
+   "word": "Keep",
+   "start": 6.38,
+   "end": 6.54
+  },
+  {
+   "word": "folding...",
+   "start": 6.54,
+   "end": 6.96
+  },
+  {
+   "word": "and",
+   "start": 6.96,
+   "end": 7.34
+  },
+  {
+   "word": "it",
+   "start": 7.34,
+   "end": 7.44
+  },
+  {
+   "word": "grows",
+   "start": 7.44,
+   "end": 7.68
+  },
+  {
+   "word": "taller",
+   "start": 7.68,
+   "end": 8.06
+  },
+  {
+   "word": "than",
+   "start": 8.06,
+   "end": 8.3
+  },
+  {
+   "word": "the",
+   "start": 8.3,
+   "end": 8.42
+  },
+  {
+   "word": "tallest",
+   "start": 8.42,
+   "end": 8.72
+  },
+  {
+   "word": "building",
+   "start": 8.72,
+   "end": 9.18
+  },
+  {
+   "word": "we've",
+   "start": 9.18,
+   "end": 9.48
+  },
+  {
+   "word": "ever",
+   "start": 9.48,
+   "end": 9.72
+  },
+  {
+   "word": "built.",
+   "start": 9.72,
+   "end": 10.0
+  },
+  {
+   "word": "A",
+   "start": 11.04,
+   "end": 11.24
+  },
+  {
+   "word": "few",
+   "start": 11.24,
+   "end": 11.44
+  },
+  {
+   "word": "folds",
+   "start": 11.44,
+   "end": 11.86
+  },
+  {
+   "word": "later,",
+   "start": 11.86,
+   "end": 12.22
+  },
+  {
+   "word": "it",
+   "start": 12.22,
+   "end": 12.44
+  },
+  {
+   "word": "climbs",
+   "start": 12.44,
+   "end": 12.68
+  },
+  {
+   "word": "into",
+   "start": 12.68,
+   "end": 12.98
+  },
+  {
+   "word": "space...",
+   "start": 12.98,
+   "end": 13.34
+  },
+  {
+   "word": "and",
+   "start": 13.34,
+   "end": 13.86
+  },
+  {
+   "word": "soon",
+   "start": 13.86,
+   "end": 14.12
+  },
+  {
+   "word": "passes",
+   "start": 14.12,
+   "end": 14.6
+  },
+  {
+   "word": "the",
+   "start": 14.6,
+   "end": 14.84
+  },
+  {
+   "word": "Moon.",
+   "start": 14.84,
+   "end": 15.06
+  },
+  {
+   "word": "Then",
+   "start": 16.12,
+   "end": 16.32
+  },
+  {
+   "word": "it",
+   "start": 16.32,
+   "end": 16.48
+  },
+  {
+   "word": "clears",
+   "start": 16.48,
+   "end": 16.76
+  },
+  {
+   "word": "the",
+   "start": 16.76,
+   "end": 17.04
+  },
+  {
+   "word": "Sun...",
+   "start": 17.04,
+   "end": 17.3
+  },
+  {
+   "word": "and",
+   "start": 17.3,
+   "end": 17.78
+  },
+  {
+   "word": "passes",
+   "start": 17.78,
+   "end": 18.24
+  },
+  {
+   "word": "Voyager",
+   "start": 18.24,
+   "end": 18.56
+  },
+  {
+   "word": "One,",
+   "start": 18.56,
+   "end": 19.0
+  },
+  {
+   "word": "the",
+   "start": 19.3,
+   "end": 19.3
+  },
+  {
+   "word": "farthest",
+   "start": 19.3,
+   "end": 19.68
+  },
+  {
+   "word": "thing",
+   "start": 19.68,
+   "end": 19.92
+  },
+  {
+   "word": "humanity",
+   "start": 19.92,
+   "end": 20.38
+  },
+  {
+   "word": "ever",
+   "start": 20.38,
+   "end": 20.82
+  },
+  {
+   "word": "launched.",
+   "start": 20.82,
+   "end": 21.3
+  },
+  {
+   "word": "Just",
+   "start": 22.34,
+   "end": 22.64
+  },
+  {
+   "word": "past",
+   "start": 22.64,
+   "end": 22.92
+  },
+  {
+   "word": "one",
+   "start": 22.92,
+   "end": 22.97
+  },
+  {
+   "word": "hundred",
+   "start": 22.92,
+   "end": 23.6
+  },
+  {
+   "word": "folds,",
+   "start": 23.6,
+   "end": 24.18
+  },
+  {
+   "word": "the",
+   "start": 24.44,
+   "end": 24.52
+  },
+  {
+   "word": "paper",
+   "start": 24.52,
+   "end": 24.78
+  },
+  {
+   "word": "grows",
+   "start": 24.78,
+   "end": 25.24
+  },
+  {
+   "word": "bigger",
+   "start": 25.24,
+   "end": 25.5
+  },
+  {
+   "word": "than",
+   "start": 25.5,
+   "end": 25.8
+  },
+  {
+   "word": "the",
+   "start": 25.8,
+   "end": 25.94
+  },
+  {
+   "word": "observable",
+   "start": 25.94,
+   "end": 26.42
+  },
+  {
+   "word": "universe.",
+   "start": 26.42,
+   "end": 26.96
+  },
+  {
+   "word": "Real",
+   "start": 27.72,
+   "end": 28.36
+  },
+  {
+   "word": "paper",
+   "start": 28.36,
+   "end": 28.72
+  },
+  {
+   "word": "stopped",
+   "start": 28.72,
+   "end": 29.1
+  },
+  {
+   "word": "at",
+   "start": 29.1,
+   "end": 29.32
+  },
+  {
+   "word": "twelve.",
+   "start": 29.32,
+   "end": 29.62
+  },
+  {
+   "word": "One",
+   "start": 30.06,
+   "end": 30.28
+  },
+  {
+   "word": "student",
+   "start": 30.28,
+   "end": 30.62
+  },
+  {
+   "word": "needed",
+   "start": 30.62,
+   "end": 30.98
+  },
+  {
+   "word": "over",
+   "start": 30.98,
+   "end": 31.32
+  },
+  {
+   "word": "a",
+   "start": 31.32,
+   "end": 31.46
+  },
+  {
+   "word": "kilometer",
+   "start": 31.46,
+   "end": 31.98
+  },
+  {
+   "word": "of",
+   "start": 31.98,
+   "end": 32.16
+  },
+  {
+   "word": "tissue.",
+   "start": 32.16,
+   "end": 32.52
+  },
+  {
+   "word": "One",
+   "start": 32.52,
+   "end": 33.82
+  },
+  {
+   "word": "thousand",
+   "start": 33.82,
+   "end": 34.28
+  },
+  {
+   "word": "folds,",
+   "start": 34.28,
+   "end": 34.78
+  },
+  {
+   "word": "and",
+   "start": 34.78,
+   "end": 35.12
+  },
+  {
+   "word": "the",
+   "start": 35.12,
+   "end": 35.22
+  },
+  {
+   "word": "height",
+   "start": 35.22,
+   "end": 35.46
+  },
+  {
+   "word": "is",
+   "start": 35.46,
+   "end": 35.68
+  },
+  {
+   "word": "ten",
+   "start": 35.68,
+   "end": 35.98
+  },
+  {
+   "word": "to",
+   "start": 35.98,
+   "end": 36.14
+  },
+  {
+   "word": "the",
+   "start": 36.14,
+   "end": 36.28
+  },
+  {
+   "word": "power",
+   "start": 36.28,
+   "end": 36.54
+  },
+  {
+   "word": "of",
+   "start": 36.54,
+   "end": 36.8
+  },
+  {
+   "word": "281",
+   "start": 36.8,
+   "end": 37.6
+  },
+  {
+   "word": "light-years",
+   "start": 37.6,
+   "end": 38.03
+  },
+  {
+   "word": "-",
+   "start": 38.03,
+   "end": 38.46
+  },
+  {
+   "word": "nothing",
+   "start": 38.46,
+   "end": 38.92
+  },
+  {
+   "word": "in",
+   "start": 38.92,
+   "end": 39.16
+  },
+  {
+   "word": "the",
+   "start": 39.16,
+   "end": 39.26
+  },
+  {
+   "word": "universe",
+   "start": 39.26,
+   "end": 39.58
+  },
+  {
+   "word": "comes",
+   "start": 39.58,
+   "end": 39.9
+  },
+  {
+   "word": "close.",
+   "start": 39.9,
+   "end": 40.32
+  },
+  {
+   "word": "One",
+   "start": 41.54,
+   "end": 41.8
+  },
+  {
+   "word": "sheet",
+   "start": 41.8,
+   "end": 42.02
+  },
+  {
+   "word": "of",
+   "start": 42.02,
+   "end": 42.18
+  },
+  {
+   "word": "paper,",
+   "start": 42.18,
+   "end": 42.52
+  },
+  {
+   "word": "one",
+   "start": 42.52,
+   "end": 42.57
+  },
+  {
+   "word": "thousand",
+   "start": 42.52,
+   "end": 43.2
+  },
+  {
+   "word": "folds...",
+   "start": 43.2,
+   "end": 43.84
+  },
+  {
+   "word": "and",
+   "start": 43.84,
+   "end": 44.26
+  },
+  {
+   "word": "the",
+   "start": 44.26,
+   "end": 44.36
+  },
+  {
+   "word": "universe",
+   "start": 44.36,
+   "end": 44.66
+  },
+  {
+   "word": "comes",
+   "start": 44.66,
+   "end": 44.98
+  },
+  {
+   "word": "up",
+   "start": 44.98,
+   "end": 45.22
+  },
+  {
+   "word": "short.",
+   "start": 45.22,
+   "end": 45.5
+  }
+ ]
+}

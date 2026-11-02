@@ -1,0 +1,26 @@
+{
+  "schema": "ch.master/1",
+  "id": "000_pipeline_test",
+  "title": "The Video Machine (system demo)",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "durationFrames": 1174,
+  "mode": "A",
+  "voice": { "file": "audio/voice.wav", "voiceId": "am_liam", "speed": 1.05 },
+  "words": { "pluginFile": "timeline/words.json", "framesFile": "timeline/words.frames.json" },
+  "segments": [
+    { "id": "seg1", "type": "plugin", "startFrame": 0, "endFrame": 647, "line": "hook, research, script, voice, storyboard",
+      "plugin": { "clip": "", "clipOffsetFrames": 0, "shotIds": ["s001", "s002", "s003", "s004", "s005"] } },
+    { "id": "seg2", "type": "remotion", "startFrame": 647, "endFrame": 761, "line": "The picture engine paints the frames, thirty every second.",
+      "transitionIn": { "type": "cut", "frames": 0 },
+      "remotion": { "component": "StatCounter", "props": { "tween": { "from": 0, "to": 1174, "durFrames": 114 }, "label": "FRAMES DRAWN", "tag": "30 FPS - DUSK STYLE" }, "assets": [], "hideCaptions": false } },
+    { "id": "seg3", "type": "plugin", "startFrame": 761, "endFrame": 1174, "line": "editing engine, QC mix, end",
+      "plugin": { "clip": "", "clipOffsetFrames": 761, "shotIds": ["s007", "s008", "s009"] } }
+  ],
+  "overlays": [
+    { "id": "o_endcard", "kind": "endCard", "startFrame": 1130, "endFrame": 1174, "props": { "title": "MADE BY THE FACTORY" } }
+  ],
+  "captions": { "enabled": true, "maxWords": 3, "style": "brand-mvp", "safe": { "top": 150, "bottom": 250, "side": 60 } },
+  "audio": { "mixFile": "audio/mix.wav", "loudnessTarget": -14, "music": [], "cues": [] }
+}

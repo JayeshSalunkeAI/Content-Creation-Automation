@@ -1,0 +1,36 @@
+doctor results (each line: status name | detail)
+OK   python version >= 3.9 | 3.11.9
+OK   running inside .venv | C:\channel\.venv\Scripts\python.exe
+OK   ffmpeg | ffmpeg version 9.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+OK   ffprobe | ffprobe version 9.0.2-essentia
+OK   node >= 18 | v24.14.0
+OK   git | git version 2.51.1.windows.1
+OK   nvidia-smi (GPU driver) | Sun Nov  1 01:09:53 2026       
+OK   ffmpeg on PATH | portable build: C:\channel\tools\ffmpeg\bin
+OK   import numpy | 2.4.6
+OK   import scipy | 1.17.1
+OK   import soundfile | 0.14.0
+OK   import torch | 2.15.0+cpu
+OK   import kokoro | 0.9.4
+OK   import faster_whisper | 1.2.1
+OK   import librosa | 0.11.0
+OK   import pyloudnorm | 
+OK   import jsonschema | 4.26.0
+OK   import PIL | 13.0.0
+OK   import espeakng_loader | 
+OK   torch CPU build | torch 2.15.0+cpu, CUDA available: False (CPU-first by design)
+OK   import espeakng_loader | 
+OK   espeak-ng library (kokoro) | C:\channel\.venv\Lib\site-packages\espeakng_loader\espeak-ng.dll
+OK   studio node_modules (kit) | 
+OK     studio: three | 
+OK     studio: playwright | 
+OK     studio: @fontsource/fredoka | 
+OK     studio: @fontsource/nunito | 
+OK     studio: @fontsource/playfair-display | 
+OK   remotion node_modules | 
+OK   playwright chromium | C:\Users\heise\AppData\Local\ms-playwright\chromium-1194\chrome-win\chrome.exe
+OK   remotion headless shell | C:\channel\remotion\node_modules\.remotion\chrome-headless-shell
+OK   kit render.mjs | 
+OK   kit engine/player.js | 
+OK   master plan pdf | 
+OK   smoke: kokoro render + whisper read-back |  This  is  a  pipeline  smoke  test.  If  you  can  hear  this  line,  the  voice  works.

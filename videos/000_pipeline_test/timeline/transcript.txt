@@ -1,0 +1,15 @@
+[00:00.00 -> 00:01.52] This video built itself.
+[00:01.52 -> 00:03.58] Watch the machine that made it.
+[00:04.28 -> 00:05.10] Step one, research.
+[00:05.52 -> 00:07.68] Real sources, spoken by the researcher agent.
+[00:08.80 -> 00:09.72] Step two, the script.
+[00:10.18 -> 00:11.86] Short, punchy, timed to the exact word.
+[00:12.98 -> 00:13.92] Step three, the voice.
+[00:14.28 -> 00:16.14] A local model speaks it, right now.
+[00:17.12 -> 00:18.34] Step four, the storyboard.
+[00:18.80 -> 00:21.04] One master timeline hands every frame its job.
+[00:22.10 -> 00:25.00] The picture engine paints the frames, thirty every second.
+[00:25.72 -> 00:29.34] The editing engine adds captions, overlays, and the final mix.
+[00:30.64 -> 00:33.42] Loudness checked, safe zones clear, one file ready to upload.
+[00:34.48 -> 00:35.38] That is the factory.
+[00:35.72 -> 00:37.72] One folder, zero cameras, every week.

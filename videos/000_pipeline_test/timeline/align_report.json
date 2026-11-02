@@ -1,0 +1,9 @@
+{
+ "model": "small.en",
+ "match_pct": 98,
+ "matched": 91,
+ "total": 93,
+ "min_pct": 95,
+ "passed": true,
+ "canonical_words": "timeline/words.json"
+}

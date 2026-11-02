@@ -1,0 +1,10 @@
+{
+ "model": "small.en",
+ "match_pct": 96,
+ "matched": 111,
+ "total": 116,
+ "min_pct": 95,
+ "passed": true,
+ "canonical_words": "timeline/words.json",
+ "notes": "match uses numeric-value parity (whisper transcribes spoken numbers as digits; both sides canon to digits). Hyphenated compounds (e.g. 'light-years') scan as one script word vs two heard words — known acceptable miss."
+}

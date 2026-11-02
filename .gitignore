@@ -1,0 +1,31 @@
+# ignore heavy/regenerable artifacts; keep sources + contracts in git
+node_modules/
+remotion/node_modules/
+studio/node_modules/
+tools/
+.venv/
+cache/
+logs/*.log
+*.log
+log/
+__pycache__/
+*.pyc
+
+# rendered media (regenerable or huge)
+build/
+out/
+remotion/public/staged/
+remotion/public/props/
+videos/*/build/
+videos/*/out/
+videos/*/audio/mix_raw.wav
+*.mp4
+*.wav
+*.mp3
+*.flac
+
+# keep: master contracts, scripts, schemas, brand, library catalogs, qa reports
+!library/catalog.json
+!library/licenses.json
+!videos/*/qa/report.json
+remotion/.remotion/

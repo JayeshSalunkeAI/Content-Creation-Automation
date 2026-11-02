@@ -1,0 +1,817 @@
+{
+ "fps": 30,
+ "words": [
+  {
+   "i": 0,
+   "text": "What",
+   "startFrame": 0,
+   "endFrame": 10,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 1,
+   "text": "if",
+   "startFrame": 10,
+   "endFrame": 13,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 2,
+   "text": "you",
+   "startFrame": 13,
+   "endFrame": 18,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 3,
+   "text": "folded",
+   "startFrame": 18,
+   "endFrame": 26,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 4,
+   "text": "this",
+   "startFrame": 26,
+   "endFrame": 34,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 5,
+   "text": "piece",
+   "startFrame": 34,
+   "endFrame": 40,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 6,
+   "text": "of",
+   "startFrame": 40,
+   "endFrame": 46,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 7,
+   "text": "paper...",
+   "startFrame": 46,
+   "endFrame": 55,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 8,
+   "text": "a",
+   "startFrame": 55,
+   "endFrame": 66,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 9,
+   "text": "thousand",
+   "startFrame": 66,
+   "endFrame": 76,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 10,
+   "text": "times?",
+   "startFrame": 76,
+   "endFrame": 89,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 11,
+   "text": "Here's",
+   "startFrame": 122,
+   "endFrame": 133,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 12,
+   "text": "what",
+   "startFrame": 133,
+   "endFrame": 136,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 13,
+   "text": "really",
+   "startFrame": 136,
+   "endFrame": 142,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 14,
+   "text": "happens.",
+   "startFrame": 142,
+   "endFrame": 157,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 15,
+   "text": "Keep",
+   "startFrame": 191,
+   "endFrame": 196,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 16,
+   "text": "folding...",
+   "startFrame": 196,
+   "endFrame": 209,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 17,
+   "text": "and",
+   "startFrame": 209,
+   "endFrame": 220,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 18,
+   "text": "it",
+   "startFrame": 220,
+   "endFrame": 223,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 19,
+   "text": "grows",
+   "startFrame": 223,
+   "endFrame": 230,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 20,
+   "text": "taller",
+   "startFrame": 230,
+   "endFrame": 242,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 21,
+   "text": "than",
+   "startFrame": 242,
+   "endFrame": 249,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 22,
+   "text": "the",
+   "startFrame": 249,
+   "endFrame": 253,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 23,
+   "text": "tallest",
+   "startFrame": 253,
+   "endFrame": 262,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 24,
+   "text": "building",
+   "startFrame": 262,
+   "endFrame": 275,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 25,
+   "text": "we've",
+   "startFrame": 275,
+   "endFrame": 284,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 26,
+   "text": "ever",
+   "startFrame": 284,
+   "endFrame": 292,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 27,
+   "text": "built.",
+   "startFrame": 292,
+   "endFrame": 300,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 28,
+   "text": "A",
+   "startFrame": 331,
+   "endFrame": 337,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 29,
+   "text": "few",
+   "startFrame": 337,
+   "endFrame": 343,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 30,
+   "text": "folds",
+   "startFrame": 343,
+   "endFrame": 356,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 31,
+   "text": "later,",
+   "startFrame": 356,
+   "endFrame": 367,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 32,
+   "text": "it",
+   "startFrame": 367,
+   "endFrame": 373,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 33,
+   "text": "climbs",
+   "startFrame": 373,
+   "endFrame": 380,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 34,
+   "text": "into",
+   "startFrame": 380,
+   "endFrame": 389,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 35,
+   "text": "space...",
+   "startFrame": 389,
+   "endFrame": 400,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 36,
+   "text": "and",
+   "startFrame": 400,
+   "endFrame": 416,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 37,
+   "text": "soon",
+   "startFrame": 416,
+   "endFrame": 424,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 38,
+   "text": "passes",
+   "startFrame": 424,
+   "endFrame": 438,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 39,
+   "text": "the",
+   "startFrame": 438,
+   "endFrame": 445,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 40,
+   "text": "Moon.",
+   "startFrame": 445,
+   "endFrame": 452,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 41,
+   "text": "Then",
+   "startFrame": 484,
+   "endFrame": 490,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 42,
+   "text": "it",
+   "startFrame": 490,
+   "endFrame": 494,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 43,
+   "text": "clears",
+   "startFrame": 494,
+   "endFrame": 503,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 44,
+   "text": "the",
+   "startFrame": 503,
+   "endFrame": 511,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 45,
+   "text": "Sun...",
+   "startFrame": 511,
+   "endFrame": 519,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 46,
+   "text": "and",
+   "startFrame": 519,
+   "endFrame": 533,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 47,
+   "text": "passes",
+   "startFrame": 533,
+   "endFrame": 547,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 48,
+   "text": "Voyager",
+   "startFrame": 547,
+   "endFrame": 557,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 49,
+   "text": "One,",
+   "startFrame": 557,
+   "endFrame": 570,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 50,
+   "text": "the",
+   "startFrame": 579,
+   "endFrame": 580,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 51,
+   "text": "farthest",
+   "startFrame": 579,
+   "endFrame": 590,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 52,
+   "text": "thing",
+   "startFrame": 590,
+   "endFrame": 598,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 53,
+   "text": "humanity",
+   "startFrame": 598,
+   "endFrame": 611,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 54,
+   "text": "ever",
+   "startFrame": 611,
+   "endFrame": 625,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 55,
+   "text": "launched.",
+   "startFrame": 625,
+   "endFrame": 639,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 56,
+   "text": "Just",
+   "startFrame": 670,
+   "endFrame": 679,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 57,
+   "text": "past",
+   "startFrame": 679,
+   "endFrame": 688,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 58,
+   "text": "one",
+   "startFrame": 688,
+   "endFrame": 689,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 59,
+   "text": "hundred",
+   "startFrame": 688,
+   "endFrame": 708,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 60,
+   "text": "folds,",
+   "startFrame": 708,
+   "endFrame": 725,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 61,
+   "text": "the",
+   "startFrame": 733,
+   "endFrame": 736,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 62,
+   "text": "paper",
+   "startFrame": 736,
+   "endFrame": 743,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 63,
+   "text": "grows",
+   "startFrame": 743,
+   "endFrame": 757,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 64,
+   "text": "bigger",
+   "startFrame": 757,
+   "endFrame": 765,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 65,
+   "text": "than",
+   "startFrame": 765,
+   "endFrame": 774,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 66,
+   "text": "the",
+   "startFrame": 774,
+   "endFrame": 778,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 67,
+   "text": "observable",
+   "startFrame": 778,
+   "endFrame": 793,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 68,
+   "text": "universe.",
+   "startFrame": 793,
+   "endFrame": 809,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 69,
+   "text": "Real",
+   "startFrame": 832,
+   "endFrame": 851,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 70,
+   "text": "paper",
+   "startFrame": 851,
+   "endFrame": 862,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 71,
+   "text": "stopped",
+   "startFrame": 862,
+   "endFrame": 873,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 72,
+   "text": "at",
+   "startFrame": 873,
+   "endFrame": 880,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 73,
+   "text": "twelve.",
+   "startFrame": 880,
+   "endFrame": 889,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 74,
+   "text": "One",
+   "startFrame": 902,
+   "endFrame": 908,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 75,
+   "text": "student",
+   "startFrame": 908,
+   "endFrame": 919,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 76,
+   "text": "needed",
+   "startFrame": 919,
+   "endFrame": 929,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 77,
+   "text": "over",
+   "startFrame": 929,
+   "endFrame": 940,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 78,
+   "text": "a",
+   "startFrame": 940,
+   "endFrame": 944,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 79,
+   "text": "kilometer",
+   "startFrame": 944,
+   "endFrame": 959,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 80,
+   "text": "of",
+   "startFrame": 959,
+   "endFrame": 965,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 81,
+   "text": "tissue.",
+   "startFrame": 965,
+   "endFrame": 976,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 82,
+   "text": "One",
+   "startFrame": 976,
+   "endFrame": 1015,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 83,
+   "text": "thousand",
+   "startFrame": 1015,
+   "endFrame": 1028,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 84,
+   "text": "folds,",
+   "startFrame": 1028,
+   "endFrame": 1043,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 85,
+   "text": "and",
+   "startFrame": 1043,
+   "endFrame": 1054,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 86,
+   "text": "the",
+   "startFrame": 1054,
+   "endFrame": 1057,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 87,
+   "text": "height",
+   "startFrame": 1057,
+   "endFrame": 1064,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 88,
+   "text": "is",
+   "startFrame": 1064,
+   "endFrame": 1070,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 89,
+   "text": "ten",
+   "startFrame": 1070,
+   "endFrame": 1079,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 90,
+   "text": "to",
+   "startFrame": 1079,
+   "endFrame": 1084,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 91,
+   "text": "the",
+   "startFrame": 1084,
+   "endFrame": 1088,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 92,
+   "text": "power",
+   "startFrame": 1088,
+   "endFrame": 1096,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 93,
+   "text": "of",
+   "startFrame": 1096,
+   "endFrame": 1104,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 94,
+   "text": "281",
+   "startFrame": 1104,
+   "endFrame": 1128,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 95,
+   "text": "light-years",
+   "startFrame": 1128,
+   "endFrame": 1141,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 96,
+   "text": "-",
+   "startFrame": 1141,
+   "endFrame": 1154,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 97,
+   "text": "nothing",
+   "startFrame": 1154,
+   "endFrame": 1168,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 98,
+   "text": "in",
+   "startFrame": 1168,
+   "endFrame": 1175,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 99,
+   "text": "the",
+   "startFrame": 1175,
+   "endFrame": 1178,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 100,
+   "text": "universe",
+   "startFrame": 1178,
+   "endFrame": 1187,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 101,
+   "text": "comes",
+   "startFrame": 1187,
+   "endFrame": 1197,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 102,
+   "text": "close.",
+   "startFrame": 1197,
+   "endFrame": 1210,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 103,
+   "text": "One",
+   "startFrame": 1246,
+   "endFrame": 1254,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 104,
+   "text": "sheet",
+   "startFrame": 1254,
+   "endFrame": 1261,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 105,
+   "text": "of",
+   "startFrame": 1261,
+   "endFrame": 1265,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 106,
+   "text": "paper,",
+   "startFrame": 1265,
+   "endFrame": 1276,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 107,
+   "text": "one",
+   "startFrame": 1276,
+   "endFrame": 1277,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 108,
+   "text": "thousand",
+   "startFrame": 1276,
+   "endFrame": 1296,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 109,
+   "text": "folds...",
+   "startFrame": 1296,
+   "endFrame": 1315,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 110,
+   "text": "and",
+   "startFrame": 1315,
+   "endFrame": 1328,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 111,
+   "text": "the",
+   "startFrame": 1328,
+   "endFrame": 1331,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 112,
+   "text": "universe",
+   "startFrame": 1331,
+   "endFrame": 1340,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 113,
+   "text": "comes",
+   "startFrame": 1340,
+   "endFrame": 1349,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 114,
+   "text": "up",
+   "startFrame": 1349,
+   "endFrame": 1357,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 115,
+   "text": "short.",
+   "startFrame": 1357,
+   "endFrame": 1365,
+   "segmentId": "seg3"
+  }
+ ]
+}

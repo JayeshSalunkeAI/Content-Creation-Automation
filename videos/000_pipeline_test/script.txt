@@ -1,0 +1,17 @@
+This video built itself. Watch the machine that made it.
+
+Step one, research. Real sources, spoken by the researcher agent.
+
+Step two, the script. Short, punchy, timed to the exact word.
+
+Step three, the voice. A local model speaks it, right now.
+
+Step four, the storyboard. One master timeline hands every frame its job.
+
+The picture engine paints the frames, thirty every second.
+
+The editing engine adds captions, overlays, and the final mix.
+
+Loudness checked, safe zones clear, one file ready to upload.
+
+That is the factory. One folder, zero cameras, every week.

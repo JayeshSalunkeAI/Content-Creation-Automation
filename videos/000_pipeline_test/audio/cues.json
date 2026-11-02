@@ -1,0 +1,46 @@
+{
+ "cues": [
+  {
+   "id": "rs_entry",
+   "frame": 0,
+   "sfxId": "stg_entry_riser",
+   "file": "C:\\channel\\brand/audio/stingers/entry_riser.wav",
+   "gainDb": -7,
+   "segmentId": ""
+  },
+  {
+   "id": "rs_clack_1",
+   "frame": 0,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -11,
+   "segmentId": ""
+  },
+  {
+   "id": "rs_clack_2",
+   "frame": 647,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -11,
+   "segmentId": ""
+  },
+  {
+   "id": "rs_clack_3",
+   "frame": 761,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -11,
+   "segmentId": ""
+  },
+  {
+   "id": "rs_qc",
+   "frame": 1154,
+   "sfxId": "stg_qc_triplet",
+   "file": "C:\\channel\\brand/audio/stingers/qc_triplet.wav",
+   "gainDb": -8,
+   "segmentId": ""
+  }
+ ],
+ "music": [],
+ "notes": []
+}

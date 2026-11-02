@@ -1,0 +1,63 @@
+{
+ "voiceId": "am_fenrir",
+ "speed": 1.0,
+ "lang_code": "a",
+ "parts": [
+  {
+   "i": 0,
+   "text": "This video built itself. Watch the machine that made it.",
+   "wav": "audio\\voice_parts\\para_01.wav",
+   "secs": 3.575
+  },
+  {
+   "i": 1,
+   "text": "Step one, research. Real sources, spoken by the researcher agent.",
+   "wav": "audio\\voice_parts\\para_02.wav",
+   "secs": 4.625
+  },
+  {
+   "i": 2,
+   "text": "Step two, the script. Short, punchy, timed to the exact word.",
+   "wav": "audio\\voice_parts\\para_03.wav",
+   "secs": 4.15
+  },
+  {
+   "i": 3,
+   "text": "Step three, the voice. A local model speaks it, right now.",
+   "wav": "audio\\voice_parts\\para_04.wav",
+   "secs": 3.925
+  },
+  {
+   "i": 4,
+   "text": "Step four, the storyboard. One master timeline hands every frame its job.",
+   "wav": "audio\\voice_parts\\para_05.wav",
+   "secs": 5.225
+  },
+  {
+   "i": 5,
+   "text": "The picture engine paints the frames, thirty every second.",
+   "wav": "audio\\voice_parts\\para_06.wav",
+   "secs": 3.8
+  },
+  {
+   "i": 6,
+   "text": "The editing engine adds captions, overlays, and the final mix.",
+   "wav": "audio\\voice_parts\\para_07.wav",
+   "secs": 4.2
+  },
+  {
+   "i": 7,
+   "text": "Loudness checked, safe zones clear, one file ready to upload.",
+   "wav": "audio\\voice_parts\\para_08.wav",
+   "secs": 4.0
+  },
+  {
+   "i": 8,
+   "text": "That is the factory. One folder, zero cameras, every week.",
+   "wav": "audio\\voice_parts\\para_09.wav",
+   "secs": 4.2
+  }
+ ],
+ "totalSecs": 37.7,
+ "probeSecs": 39.94
+}

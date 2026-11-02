@@ -1,0 +1,34 @@
+{
+  "brand": "ch-brand/1",
+  "identity": "UTILITY CLASS — industrial spec-sheet. Graphite world, safety-yellow accents, mono telemetry. The video shows its own receipts (frame counters, take stamps, QC seal).",
+  "theme": "utility",
+  "palette": {
+    "graphite": "#16191C",
+    "surface": "#eceae2",
+    "safetyYellow": "#FFC744",
+    "concrete": "#98968b",
+    "ink": "#0e1012"
+  },
+  "typography": {
+    "display": "Archivo Black (OFL, @fontsource)",
+    "ui": "IBM Plex Mono (OFL, @fontsource)",
+    "mono": "IBM Plex Mono (OFL, @fontsource)"
+  },
+  "voice": { "voiceId": "am_fenrir", "speed": 1.0, "source": "brand/voice.json (FROZEN)" },
+  "signatureSound": {
+    "policy": "procedurally synthesized (pipeline/make_stingers.py, seed 20261101) — license-clean by construction",
+    "files": {
+      "entryRiser": "brand/audio/stingers/entry_riser.wav",
+      "tickClack": "brand/audio/stingers/tick_clack.wav",
+      "whoosh": "brand/audio/stingers/whoosh.wav",
+      "qcTriplet": "brand/audio/stingers/qc_triplet.wav"
+    }
+  },
+  "telemetryMotif": "video shows its own receipts — receiptTicker (live frame counter), takeStamp per segment, qcSeal on endcard; data comes from the real pipeline (master.json segments + words.frames)",
+  "stage1Evidence": {
+    "styleGrid": "studio/projects/000_pipeline_test/build/styles/style_grid.png",
+    "themeStrips": "brand/sprints/stage1/stills/strip_*.png",
+    "voiceAuditions": "brand/auditions/*.wav",
+    "stingerPreview": "brand/audio/stingers/stinger_preview.wav"
+  }
+}

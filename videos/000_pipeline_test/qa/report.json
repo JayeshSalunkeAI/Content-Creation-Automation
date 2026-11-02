@@ -1,0 +1,60 @@
+{
+ "open": [],
+ "checks": [
+  {
+   "file": "C:\\channel\\videos\\000_pipeline_test\\renders\\draft_v1.mp4",
+   "checks": [
+    "video 540x960 h264 yuvj420p",
+    "fps 30/1 vs master 30/1",
+    "frames 1174 vs master 1174 (±1)",
+    "audio aac 48000Hz"
+   ],
+   "sheet_flags": [],
+   "silences": []
+  },
+  {
+   "file": "C:\\channel\\videos\\000_pipeline_test\\renders\\draft_v1.mp4",
+   "checks": [
+    "video 540x960 h264 yuvj420p",
+    "fps 30/1 vs master 30/1",
+    "frames 1174 vs master 1174 (±1)",
+    "audio aac 48000Hz"
+   ],
+   "sheet_flags": [],
+   "silences": []
+  },
+  {
+   "file": "C:\\channel\\videos\\000_pipeline_test\\renders\\final.mp4",
+   "checks": [
+    "video 1080x1920 h264 yuvj420p",
+    "fps 30/1 vs master 30/1",
+    "frames 1174 vs master 1174 (±1)",
+    "audio aac 48000Hz"
+   ],
+   "sheet_flags": [],
+   "silences": []
+  },
+  {
+   "file": "C:\\channel\\videos\\000_pipeline_test\\renders\\final.mp4",
+   "checks": [
+    "video 1080x1920 h264 yuvj420p",
+    "fps 30/1 vs master 30/1",
+    "frames 1174 vs master 1174 (±1)",
+    "audio aac 48000Hz"
+   ],
+   "sheet_flags": [],
+   "silences": []
+  },
+  {
+   "file": "C:\\channel\\videos\\000_pipeline_test\\renders\\final.mp4",
+   "checks": [
+    "video 1080x1920 h264 yuvj420p",
+    "fps 30/1 vs master 30/1",
+    "frames 1174 vs master 1174 (±1)",
+    "audio aac 48000Hz"
+   ],
+   "sheet_flags": [],
+   "silences": []
+  }
+ ]
+}

@@ -1,0 +1,656 @@
+{
+ "fps": 30,
+ "words": [
+  {
+   "i": 0,
+   "text": "This",
+   "startFrame": 0,
+   "endFrame": 13,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 1,
+   "text": "video",
+   "startFrame": 13,
+   "endFrame": 23,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 2,
+   "text": "built",
+   "startFrame": 23,
+   "endFrame": 34,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 3,
+   "text": "itself.",
+   "startFrame": 34,
+   "endFrame": 46,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 4,
+   "text": "Watch",
+   "startFrame": 46,
+   "endFrame": 60,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 5,
+   "text": "the",
+   "startFrame": 60,
+   "endFrame": 66,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 6,
+   "text": "machine",
+   "startFrame": 66,
+   "endFrame": 74,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 7,
+   "text": "that",
+   "startFrame": 74,
+   "endFrame": 80,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 8,
+   "text": "made",
+   "startFrame": 80,
+   "endFrame": 86,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 9,
+   "text": "it.",
+   "startFrame": 86,
+   "endFrame": 107,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 10,
+   "text": "Step",
+   "startFrame": 128,
+   "endFrame": 129,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 11,
+   "text": "one,",
+   "startFrame": 129,
+   "endFrame": 138,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 12,
+   "text": "research.",
+   "startFrame": 143,
+   "endFrame": 153,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 13,
+   "text": "Real",
+   "startFrame": 166,
+   "endFrame": 172,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 14,
+   "text": "sources,",
+   "startFrame": 172,
+   "endFrame": 186,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 15,
+   "text": "spoken",
+   "startFrame": 186,
+   "endFrame": 196,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 16,
+   "text": "by",
+   "startFrame": 196,
+   "endFrame": 205,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 17,
+   "text": "the",
+   "startFrame": 205,
+   "endFrame": 208,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 18,
+   "text": "researcher",
+   "startFrame": 208,
+   "endFrame": 218,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 19,
+   "text": "agent.",
+   "startFrame": 218,
+   "endFrame": 230,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 20,
+   "text": "Step",
+   "startFrame": 264,
+   "endFrame": 271,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 21,
+   "text": "two,",
+   "startFrame": 271,
+   "endFrame": 278,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 22,
+   "text": "the",
+   "startFrame": 283,
+   "endFrame": 284,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 23,
+   "text": "script.",
+   "startFrame": 283,
+   "endFrame": 292,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 24,
+   "text": "Short,",
+   "startFrame": 305,
+   "endFrame": 307,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 25,
+   "text": "punchy,",
+   "startFrame": 313,
+   "endFrame": 322,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 26,
+   "text": "timed",
+   "startFrame": 325,
+   "endFrame": 328,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 27,
+   "text": "to",
+   "startFrame": 328,
+   "endFrame": 333,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 28,
+   "text": "the",
+   "startFrame": 333,
+   "endFrame": 336,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 29,
+   "text": "exact",
+   "startFrame": 336,
+   "endFrame": 346,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 30,
+   "text": "word.",
+   "startFrame": 346,
+   "endFrame": 356,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 31,
+   "text": "Step",
+   "startFrame": 389,
+   "endFrame": 396,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 32,
+   "text": "three,",
+   "startFrame": 396,
+   "endFrame": 405,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 33,
+   "text": "the",
+   "startFrame": 407,
+   "endFrame": 410,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 34,
+   "text": "voice.",
+   "startFrame": 410,
+   "endFrame": 418,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 35,
+   "text": "A",
+   "startFrame": 428,
+   "endFrame": 432,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 36,
+   "text": "local",
+   "startFrame": 432,
+   "endFrame": 439,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 37,
+   "text": "model",
+   "startFrame": 439,
+   "endFrame": 449,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 38,
+   "text": "speaks",
+   "startFrame": 449,
+   "endFrame": 458,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 39,
+   "text": "it,",
+   "startFrame": 458,
+   "endFrame": 466,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 40,
+   "text": "right",
+   "startFrame": 466,
+   "endFrame": 473,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 41,
+   "text": "now.",
+   "startFrame": 473,
+   "endFrame": 484,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 42,
+   "text": "Step",
+   "startFrame": 514,
+   "endFrame": 521,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 43,
+   "text": "four,",
+   "startFrame": 521,
+   "endFrame": 530,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 44,
+   "text": "the",
+   "startFrame": 533,
+   "endFrame": 536,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 45,
+   "text": "storyboard.",
+   "startFrame": 536,
+   "endFrame": 550,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 46,
+   "text": "One",
+   "startFrame": 564,
+   "endFrame": 567,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 47,
+   "text": "master",
+   "startFrame": 567,
+   "endFrame": 575,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 48,
+   "text": "timeline",
+   "startFrame": 575,
+   "endFrame": 588,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 49,
+   "text": "hands",
+   "startFrame": 588,
+   "endFrame": 599,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 50,
+   "text": "every",
+   "startFrame": 599,
+   "endFrame": 609,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 51,
+   "text": "frame",
+   "startFrame": 609,
+   "endFrame": 617,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 52,
+   "text": "its",
+   "startFrame": 617,
+   "endFrame": 622,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 53,
+   "text": "job.",
+   "startFrame": 622,
+   "endFrame": 631,
+   "segmentId": "seg1"
+  },
+  {
+   "i": 54,
+   "text": "The",
+   "startFrame": 663,
+   "endFrame": 669,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 55,
+   "text": "picture",
+   "startFrame": 669,
+   "endFrame": 677,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 56,
+   "text": "engine",
+   "startFrame": 677,
+   "endFrame": 689,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 57,
+   "text": "paints",
+   "startFrame": 689,
+   "endFrame": 699,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 58,
+   "text": "the",
+   "startFrame": 699,
+   "endFrame": 705,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 59,
+   "text": "frames,",
+   "startFrame": 705,
+   "endFrame": 716,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 60,
+   "text": "thirty",
+   "startFrame": 716,
+   "endFrame": 730,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 61,
+   "text": "every",
+   "startFrame": 730,
+   "endFrame": 739,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 62,
+   "text": "second.",
+   "startFrame": 739,
+   "endFrame": 750,
+   "segmentId": "seg2"
+  },
+  {
+   "i": 63,
+   "text": "The",
+   "startFrame": 772,
+   "endFrame": 788,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 64,
+   "text": "editing",
+   "startFrame": 788,
+   "endFrame": 798,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 65,
+   "text": "engine",
+   "startFrame": 798,
+   "endFrame": 809,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 66,
+   "text": "adds",
+   "startFrame": 809,
+   "endFrame": 820,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 67,
+   "text": "captions,",
+   "startFrame": 820,
+   "endFrame": 836,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 68,
+   "text": "overlays,",
+   "startFrame": 841,
+   "endFrame": 854,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 69,
+   "text": "and",
+   "startFrame": 859,
+   "endFrame": 860,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 70,
+   "text": "the",
+   "startFrame": 860,
+   "endFrame": 863,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 71,
+   "text": "final",
+   "startFrame": 863,
+   "endFrame": 872,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 72,
+   "text": "mix.",
+   "startFrame": 872,
+   "endFrame": 880,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 73,
+   "text": "Loudness",
+   "startFrame": 919,
+   "endFrame": 927,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 74,
+   "text": "checked,",
+   "startFrame": 927,
+   "endFrame": 934,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 75,
+   "text": "safe",
+   "startFrame": 940,
+   "endFrame": 943,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 76,
+   "text": "zones",
+   "startFrame": 943,
+   "endFrame": 952,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 77,
+   "text": "clear,",
+   "startFrame": 952,
+   "endFrame": 961,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 78,
+   "text": "one",
+   "startFrame": 966,
+   "endFrame": 970,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 79,
+   "text": "file",
+   "startFrame": 970,
+   "endFrame": 979,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 80,
+   "text": "ready",
+   "startFrame": 979,
+   "endFrame": 986,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 81,
+   "text": "to",
+   "startFrame": 986,
+   "endFrame": 992,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 82,
+   "text": "upload.",
+   "startFrame": 992,
+   "endFrame": 1003,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 83,
+   "text": "That",
+   "startFrame": 1034,
+   "endFrame": 1043,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 84,
+   "text": "is",
+   "startFrame": 1043,
+   "endFrame": 1047,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 85,
+   "text": "the",
+   "startFrame": 1047,
+   "endFrame": 1051,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 86,
+   "text": "factory.",
+   "startFrame": 1051,
+   "endFrame": 1061,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 87,
+   "text": "One",
+   "startFrame": 1072,
+   "endFrame": 1078,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 88,
+   "text": "folder,",
+   "startFrame": 1078,
+   "endFrame": 1085,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 89,
+   "text": "zero",
+   "startFrame": 1091,
+   "endFrame": 1096,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 90,
+   "text": "cameras,",
+   "startFrame": 1096,
+   "endFrame": 1111,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 91,
+   "text": "every",
+   "startFrame": 1111,
+   "endFrame": 1123,
+   "segmentId": "seg3"
+  },
+  {
+   "i": 92,
+   "text": "week.",
+   "startFrame": 1123,
+   "endFrame": 1132,
+   "segmentId": "seg3"
+  }
+ ]
+}

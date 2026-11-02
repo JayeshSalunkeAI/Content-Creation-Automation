@@ -1,0 +1,26 @@
+{
+  "name": "channel-remotion",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Remotion master-edit layer: plugin clips as base segments, brand captions/overlays, one Audio element.",
+  "dependencies": {
+    "@fontsource/archivo-black": "^5.3.0",
+    "@fontsource/fraunces": "^5.3.0",
+    "@fontsource/fredoka": "^5.3.0",
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "@fontsource/space-grotesk": "^5.3.0",
+    "@remotion/cli": "^4.0.0",
+    "@remotion/layout-utils": "^4.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.0",
+    "typescript": "^5.4.0"
+  },
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render ShortVideo out.mp4"
+  }
+}

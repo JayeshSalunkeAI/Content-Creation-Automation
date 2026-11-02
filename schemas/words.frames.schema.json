@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "word frames (Remotion copy)",
+  "type": "object",
+  "required": ["fps", "words"],
+  "properties": {
+    "fps": { "enum": [24, 30] },
+    "words": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["i", "text", "startFrame", "endFrame", "segmentId"],
+        "properties": {
+          "i": { "type": "integer", "minimum": 0 },
+          "text": { "type": "string" },
+          "startFrame": { "type": "integer", "minimum": 0 },
+          "endFrame": { "type": "integer", "minimum": 1 },
+          "segmentId": { "type": "string" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+ "title": "001_paper_fold — \"How Much Will Be The Height Of Paper Fold If We Fold It 1000 Times\"",
+ "aspect": "9:16",
+ "resolution": "1080p",
+ "fps": 30,
+ "style": "utility",
+ "voiceover": "input/voiceover.wav",
+ "script": null,
+ "duration": 47.367,
+ "captions": false,
+ "captionStyle": {
+  "y": 1500,
+  "size": 64,
+  "max": 3
+ },
+ "bars": null,
+ "fadeIn": 0,
+ "fadeOut": 0,
+ "music": {
+  "enabled": false
+ },
+ "sfx": {
+  "enabled": false
+ },
+ "loudness": -14
+}

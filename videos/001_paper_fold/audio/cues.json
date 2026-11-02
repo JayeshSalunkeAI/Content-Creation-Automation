@@ -1,0 +1,211 @@
+{
+ "cues": [
+  {
+   "id": "rs_entry",
+   "frame": 0,
+   "sfxId": "stg_entry_riser",
+   "file": "C:\\channel\\brand/audio/stingers/entry_riser.wav",
+   "gainDb": -7,
+   "segmentId": ""
+  },
+  {
+   "id": "rs_clack_1",
+   "frame": 0,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -11,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_hook_crack",
+   "frame": 7,
+   "sfxId": "sfx_ice_crack_snap",
+   "file": "C:\\channel\\audio sfx/Alexander Kopeikin - 100 kHz Designed Ice/ice, crack, ice block snapping-001.wav",
+   "gainDb": -8,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_fold_tick_1",
+   "frame": 124,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -16,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_fold_tick_2",
+   "frame": 128,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -16,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_fold_tick_3",
+   "frame": 133,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -16,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_bridge_deny",
+   "frame": 146,
+   "sfxId": "sfx_ui_deny_low",
+   "file": "C:\\channel\\audio sfx/Cinematic Sound Design - System & UI Feedback Elements/Interface Deny Low Fat Dark.wav",
+   "gainDb": -10,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_bridge_accept",
+   "frame": 160,
+   "sfxId": "sfx_ui_accept_glassy",
+   "file": "C:\\channel\\audio sfx/Cinematic Sound Design - Interface & Infographics/Interface Accept Glassy Snap.wav",
+   "gainDb": -10,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_reset_skyline",
+   "frame": 185,
+   "sfxId": "stg_whoosh",
+   "file": "C:\\channel\\brand/audio/stingers/whoosh.wav",
+   "gainDb": -14,
+   "segmentId": ""
+  },
+  {
+   "id": "rs_clack_2",
+   "frame": 185,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -11,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_stamp_burj",
+   "frame": 273,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -11,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_stamp_everest",
+   "frame": 323,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -11,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_stamp_space",
+   "frame": 416,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -11,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_stamp_moon",
+   "frame": 460,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -11,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_stamp_sun",
+   "frame": 539,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -11,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_stamp_voyager",
+   "frame": 569,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -11,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_universe_boom",
+   "frame": 779,
+   "sfxId": "sfx_boom_a",
+   "file": "C:\\channel\\audio sfx/Federico Soler - Effective Trailer Booms Vol. 2/EffectiveTrailer_Booms_Vol2_011.wav",
+   "gainDb": -7,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_shrink_arp",
+   "frame": 803,
+   "sfxId": "sfx_arp_reveal_down",
+   "file": "C:\\channel\\audio sfx/Cinematic Sound Design - System & UI Feedback Elements/Interface Arp Reveal Down Long.wav",
+   "gainDb": -16,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_reset_desk",
+   "frame": 839,
+   "sfxId": "sfx_debris_woosh",
+   "file": "C:\\channel\\audio sfx/Cinematic Sound Design - Colossal Impacts/Woosh Debris.wav",
+   "gainDb": -12,
+   "segmentId": ""
+  },
+  {
+   "id": "rs_clack_3",
+   "frame": 839,
+   "sfxId": "stg_tick_clack",
+   "file": "C:\\channel\\brand/audio/stingers/tick_clack.wav",
+   "gainDb": -11,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_payoff_boom",
+   "frame": 1038,
+   "sfxId": "sfx_boom_b",
+   "file": "C:\\channel\\audio sfx/Federico Soler - Effective Trailer Booms Vol. 2/EffectiveTrailer_Booms_Vol2_075.wav",
+   "gainDb": -9,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_digits_shimmer",
+   "frame": 1152,
+   "sfxId": "sfx_magic_astonish",
+   "file": "C:\\channel\\audio sfx/Alexander Kopeikin - Emotion and Magic/magic, energy flow, astonishment-001.wav",
+   "gainDb": -14,
+   "segmentId": ""
+  },
+  {
+   "id": "cue_echo_click",
+   "frame": 1240,
+   "sfxId": "sfx_ui_double_click",
+   "file": "C:\\channel\\audio sfx/Epic Stock Media - Board Game - Sound Set Kit for Tabletop and Digital Games/UIClick_UI Button Analog Vintage Double Click Neutral Dry Press 11_ESM_BG.wav",
+   "gainDb": -16,
+   "segmentId": ""
+  },
+  {
+   "id": "rs_qc",
+   "frame": 1347,
+   "sfxId": "stg_qc_triplet",
+   "file": "C:\\channel\\brand/audio/stingers/qc_triplet.wav",
+   "gainDb": -8,
+   "segmentId": ""
+  }
+ ],
+ "music": [
+  {
+   "trackId": "mus_cosmic_drone",
+   "gainDb": -20,
+   "startFrame": 666,
+   "endFrame": 839
+  },
+  {
+   "trackId": "mus_dark_amb",
+   "gainDb": -24,
+   "startFrame": 839,
+   "endFrame": 1004
+  }
+ ],
+ "notes": []
+}

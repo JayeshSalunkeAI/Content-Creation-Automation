@@ -1,0 +1,22 @@
+{
+  "id": "000_pipeline_test",
+  "schema": "ch.state/1",
+  "fps": 30,
+  "stages": {
+    "P0_intake":     { "status": "done", "finishedAt": "2026-11-01", "inputHashes": { "00_brief.md": "authored-by-agent" } },
+    "P1_research":   { "status": "done", "finishedAt": "2026-11-01", "notes": "self-referential demo: sources = this repo (gate1 pre-approved by user)" },
+    "P2_script":     { "status": "done", "finishedAt": "2026-11-01" },
+    "P3_voice":      { "status": "done", "finishedAt": "2026-11-01", "notes": "am_liam @1.05, 38.34s, ~151 wpm (140-160 target)" },
+    "P4_timing":     { "status": "done", "finishedAt": "2026-11-01", "notes": "alignment 98% (91/93); master.json cuts from real whisper gaps" },
+    "P5_storyboard": { "status": "done", "finishedAt": "2026-11-01", "notes": "shots.json + bible.md + cast.js authored" },
+    "P6_assets":     { "status": "done", "finishedAt": "2026-11-01", "notes": "no external assets — empty cues/music by design" },
+    "P7_shots":      { "status": "done", "finishedAt": "2026-11-01", "notes": "9 shots + sets; QC-1 sheet loop: s002 S import, s004 rimSide, s007 caption size fixed" },
+    "P8_render":     { "status": "done", "finishedAt": "2026-11-01", "notes": "video_silent.mp4 1174 frames (2m08s); QC-2 caught RenderOverlay endFrame bug - fixed w/ Sequence wrap" },
+    "P9_mix":        { "status": "done", "finishedAt": "2026-11-01", "notes": "mix.wav -14 LUFS, voice-only (0 music/0 cues), TP -1.5" },
+    "P10_remotion":  { "status": "done", "finishedAt": "2026-11-01", "notes": "props + staged plugin_full/mix.wav; overlay stills f000646/647/704/1132/1173 verified by eye" },
+    "P11_qa":        { "status": "done", "finishedAt": "2026-11-01", "notes": "qa_check green (1080x1920, 30fps, 1174/1174, AAC); seg3 clipOffset bug fixed (offset=761) + StatCounter durFrames=114; frame-exact vfixed_n{646,704,1080,1173}.png verified", "gate": "awaiting user watch (gate4)" },
+    "P12_revise":    { "status": "pending" },
+    "P13_publish":   { "status": "pending" },
+    "P14_log":       { "status": "pending" }
+  }
+}

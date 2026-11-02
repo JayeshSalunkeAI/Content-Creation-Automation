@@ -1,0 +1,13 @@
+# SOURCES.txt - music provenance
+#
+# Record source + license for EVERY music track you add under library\music\.
+# A music track without a recorded license row (library\licenses.json) must NOT be used
+# - no exceptions; validate_assets.py will block the build on it.
+#
+# One block per track:
+#   track:      <filename>
+#   sourceUrl:  <exact page it came from>
+#   author:
+#   license:    <e.g. CC0 / CC BY 4.0 / Pixabay license>
+#   licenseUrl:
+#   dateAdded:  <yyyy-mm-dd>

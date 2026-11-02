@@ -1,0 +1,48 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "aspect": "9:16",
+  "resolution_short_side": "1080p",
+
+  "plugin": {
+    "style_preferred": "brand",
+    "style_fallback": "dusk",
+    "workers": 2,
+    "gl": "auto",
+    "format": "jpeg",
+    "crf": 18,
+    "handles_frames": 9
+  },
+
+  "remotion": {
+    "concurrency": 2,
+    "draft_scale": 0.5
+  },
+
+  "audio": {
+    "sample_rate": 48000,
+    "loudness_target": -14,
+    "true_peak": -1.5,
+    "lra": 11
+  },
+
+  "tts": {
+    "lang_code": "a",
+    "default_voice_id": "af_heart",
+    "speed": 1.0
+  },
+
+  "align": {
+    "model": "small.en",
+    "device": "cpu",
+    "min_match_pct": 95
+  },
+
+  "paths": {
+    "studio": "studio",
+    "remotion": "remotion",
+    "library": "library",
+    "cache": "cache"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "stg_entry_riser": { "file": "brand/audio/stingers/entry_riser.wav", "kind": "stinger", "origin": "pipeline/make_stingers.py (procedural, seed 20261101)" },
+  "stg_tick_clack": { "file": "brand/audio/stingers/tick_clack.wav", "kind": "stinger", "origin": "pipeline/make_stingers.py (procedural, seed 20261101)" },
+  "stg_whoosh": { "file": "brand/audio/stingers/whoosh.wav", "kind": "stinger", "origin": "pipeline/make_stingers.py (procedural, seed 20261101)" },
+  "stg_qc_triplet": { "file": "brand/audio/stingers/qc_triplet.wav", "kind": "stinger", "origin": "pipeline/make_stingers.py (procedural, seed 20261101)" },
+  "sfx_ice_crack_snap": { "file": "audio sfx/Alexander Kopeikin - 100 kHz Designed Ice/ice, crack, ice block snapping-001.wav", "kind": "sfx", "origin": "Alexander Kopeikin - 100 kHz Designed Ice (GDC Game Audio Bundle 2026, channel-owned license)" },
+  "sfx_card_flip": { "file": "audio sfx/Epic Stock Media - Board Game - Sound Set Kit for Tabletop and Digital Games/PAPRHndl_Game Play Cards Dry Show Flip Toss Disgard Near 12_ESM_BG.wav", "kind": "sfx", "origin": "Epic Stock Media - Board Game Sound Set Kit" },
+  "sfx_ui_accept_glassy": { "file": "audio sfx/Cinematic Sound Design - Interface & Infographics/Interface Accept Glassy Snap.wav", "kind": "sfx", "origin": "Cinematic Sound Design - Interface & Infographics" },
+  "sfx_ui_deny_low": { "file": "audio sfx/Cinematic Sound Design - System & UI Feedback Elements/Interface Deny Low Fat Dark.wav", "kind": "sfx", "origin": "Cinematic Sound Design - System & UI Feedback Elements" },
+  "sfx_boom_a": { "file": "audio sfx/Federico Soler - Effective Trailer Booms Vol. 2/EffectiveTrailer_Booms_Vol2_011.wav", "kind": "sfx", "origin": "Federico Soler - Effective Trailer Booms Vol. 2" },
+  "sfx_boom_b": { "file": "audio sfx/Federico Soler - Effective Trailer Booms Vol. 2/EffectiveTrailer_Booms_Vol2_075.wav", "kind": "sfx", "origin": "Federico Soler - Effective Trailer Booms Vol. 2" },
+  "sfx_arp_reveal_down": { "file": "audio sfx/Cinematic Sound Design - System & UI Feedback Elements/Interface Arp Reveal Down Long.wav", "kind": "sfx", "origin": "Cinematic Sound Design - System & UI Feedback Elements" },
+  "sfx_debris_woosh": { "file": "audio sfx/Cinematic Sound Design - Colossal Impacts/Woosh Debris.wav", "kind": "sfx", "origin": "Cinematic Sound Design - Colossal Impacts" },
+  "sfx_magic_astonish": { "file": "audio sfx/Alexander Kopeikin - Emotion and Magic/magic, energy flow, astonishment-001.wav", "kind": "sfx", "origin": "Alexander Kopeikin - Emotion and Magic" },
+  "sfx_ui_double_click": { "file": "audio sfx/Epic Stock Media - Board Game - Sound Set Kit for Tabletop and Digital Games/UIClick_UI Button Analog Vintage Double Click Neutral Dry Press 11_ESM_BG.wav", "kind": "sfx", "origin": "Epic Stock Media - Board Game Sound Set Kit" },
+  "mus_cosmic_drone": { "file": "audio sfx/Alexander Kopeikin - Emotion and Magic/magic, drone, tension, spellbound, evanescence-002.wav", "kind": "music", "origin": "Alexander Kopeikin - Emotion and Magic" },
+  "mus_dark_amb": { "file": "audio sfx/Cinematic Sound Design - Sci-Fi Drones/Dark Industrial Ambience.wav", "kind": "music", "origin": "Cinematic Sound Design - Sci-Fi Drones" }
+}

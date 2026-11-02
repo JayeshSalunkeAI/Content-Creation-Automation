@@ -1,0 +1,133 @@
+﻿Game Audio GDC Bundle 2026 (Part 9) Filelist.xlsx|121958
+License - GDC Game Audio.pdf|60375
+Readme.txt|3291
+Alexander Kopeikin - 100 kHz Designed Ice\ice, block of ice crushed, heavy-015.wav|822678
+Alexander Kopeikin - 100 kHz Designed Ice\ice, crack, ice block snapping-001.wav|1716792
+Alexander Kopeikin - 100 kHz Designed Ice\ice, movement, ice drift, ice field cracking up, initial, wide-001.wav|47972316
+Alexander Kopeikin - 100 kHz Designed Ice\ice, surface cracking, fissure, fast, hard-003.wav|2905332
+Alexander Kopeikin - Emotion and Magic\magic, action gesture, evil presence, onslaught-004.wav|11012742
+Alexander Kopeikin - Emotion and Magic\magic, drone, tension, spellbound, evanescence-002.wav|18426736
+Alexander Kopeikin - Emotion and Magic\magic, energy flow, astonishment-001.wav|5517652
+Alexander Kopeikin - Emotion and Magic\magic, energy flow, astral travel-015.wav|35160876
+CB_Sounddesign - Applicable Sounds - Organic UI and Building Games SFX\GAMEMisc_Magic Creation 23_CB Sounddesign_APPlicable Sounds.wav|918434
+CB_Sounddesign - Applicable Sounds - Organic UI and Building Games SFX\TOONMisc_Bird Flutes 3_CB Sounddesign_APPlicable Sounds.wav|298912
+CB_Sounddesign - Applicable Sounds - Organic UI and Building Games SFX\UIMisc_Kalimba 3 Up_CB Sounddesign_APPlicable Sounds.wav|160420
+CB_Sounddesign - Applicable Sounds - Organic UI and Building Games SFX\UIMisc_Xylophone Ringtone 2_CB Sounddesign_APPlicable Sounds.wav|1184042
+Cinematic Sound Design - Cartoon & Animation Vol 2\Cartoon Bubbles Short.wav|506006
+Cinematic Sound Design - Cartoon & Animation Vol 2\Cartoon Pull Swoosh Readout.wav|1321866
+Cinematic Sound Design - Cartoon & Animation Vol 2\Cartoon Transition Bass Down.wav|2019974
+Cinematic Sound Design - Cartoon Bloopers\Arrow Hit Rattle.wav|625998
+Cinematic Sound Design - Cartoon Bloopers\Cartoon Confused Dizzy.wav|866310
+Cinematic Sound Design - Cartoon Bloopers\Character Elf It Shall Be Done.wav|351536
+Cinematic Sound Design - Cartoon Impacts\Cartoon Airy Impact Creaks.wav|1442992
+Cinematic Sound Design - Cartoon Impacts\Cartoon Pops Random Sequence Reverb.wav|806164
+Cinematic Sound Design - Cartoon Impacts\Vibrato Impact Snap Spin Transition.wav|1844014
+Cinematic Sound Design - Colossal Impacts\Impact Cut Sweep.wav|1612464
+Cinematic Sound Design - Colossal Impacts\Transition Frantic Shaker Snap.wav|843488
+Cinematic Sound Design - Colossal Impacts\Woosh Debris.wav|1372248
+Cinematic Sound Design - Hybrid Game & UI Elements\Cofetti Whoosh Pluck Spill.wav|1463808
+Cinematic Sound Design - Hybrid Game & UI Elements\Foley Coin Flip Single Fast.wav|541916
+Cinematic Sound Design - Hybrid Game & UI Elements\Game Entry Happy Short.wav|505876
+Cinematic Sound Design - Interface & Infographics\Interface Accept Glassy Snap.wav|253766
+Cinematic Sound Design - Interface & Infographics\Interface Percussion Snap.wav|379628
+Cinematic Sound Design - Interface & Infographics\Interface Pop High Short.wav|374222
+Cinematic Sound Design - Paper Foley\A4 Printing Paper Rattle Page Turn Tail.wav|738314
+Cinematic Sound Design - Paper Foley\Encyclopedia Glossy Page Turn Muted.wav|317726
+Cinematic Sound Design - Paper Foley\Newspaper Static Foley Rummage.wav|2963434
+Cinematic Sound Design - Sci-Fi Drones\Dark Industrial Ambience.wav|18045128
+Cinematic Sound Design - Sci-Fi Drones\Psycho Glitched Screechy Tones Noise.wav|35985784
+Cinematic Sound Design - Sci-Fi Drones\Roomtone Space Ship Interior Muted.wav|41870872
+Cinematic Sound Design - System & UI Feedback Elements\Interface Arp Reveal Down Long.wav|674198
+Cinematic Sound Design - System & UI Feedback Elements\Interface Deny Low Fat Dark.wav|429698
+Cinematic Sound Design - System & UI Feedback Elements\Interface Sci-Fi Ping Down.wav|433814
+Cinematic Sound Design - UI Interaction Elements\Accept Boing Crunch.wav|559868
+Cinematic Sound Design - UI Interaction Elements\Deny Muted.wav|461708
+Cinematic Sound Design - UI Interaction Elements\Ting Coins.wav|637214
+Cinematic Sound Design - Ultra Transitions & Impacts\Impact Hit Rapid Chord Reverb.wav|1850532
+Cinematic Sound Design - Ultra Transitions & Impacts\Transition Braam Slow Dark Creepy.wav|2596696
+Cinematic Sound Design - Ultra Transitions & Impacts\Woosh Sweep Slide Infographics Basic.wav|289696
+Cinematic Sound Design - User Interface\Button Arp Twinkle.wav|1046414
+Cinematic Sound Design - User Interface\Interface Plucks Happy.wav|493094
+Cinematic Sound Design - User Interface\Readout Thin Long.wav|2524336
+David Dumais Audio - Melee Weapons Sound Effects Pack 2\METLFric_SWING SCRAPE Swift Melee Weapon Swing With A Long Blade 14_DDUMAIS_MWP2.wav|5655626
+David Dumais Audio - Melee Weapons Sound Effects Pack 2\METLImpt_METAL SWING HIT Weapon Swing To Metallic Body Impact And Resonant Tail 01_DDUMAIS_MWP2.wav|5990378
+David Dumais Audio - Melee Weapons Sound Effects Pack 2\SWSH_SWING IMPACTS Quick Heavy Weapon Swing To Thud Impact Var 01_DDUMAIS_MWP2.wav|39908232
+David Dumais Audio - Melee Weapons Sound Effects Pack 2\WEAPWhip_WHIP Snap Crack 05_DDUMAIS_MWP2.wav|5146722
+Epic Stock Media - AAA Game Character British Female Detective\HMNBrth_British Detective Breathing Vocal Female Idle Annoyed Breath Grunt_ESM_AAAGCBFD.wav|756538
+Epic Stock Media - AAA Game Character British Female Detective\VOXCry_British Detective Crying Vocal Female Low Energy Weep_ESM_AAAGCBFD.wav|1686838
+Epic Stock Media - AAA Game Character British Female Detective\VOXFem_British Detective Custom Lines Vocal Female In A World Of Lies And Deception Im The One They Turn To When They Need The Truth B_ESM_AAAGCBFD.wav|2915318
+Epic Stock Media - AAA Game Character British Female Detective\VOXReac_British Detective Pain Vocal Female Dying High Grunt Breath_ESM_AAAGCBFD.wav|1354592
+Epic Stock Media - AAA Game Character Police Officer\HMNBrth_Police Officer Gasp Vocal Male Shocked Alert 1.wav|438054
+Epic Stock Media - AAA Game Character Police Officer\HMNCough_Police Officer Cough Vocal Male 11.wav|969568
+Epic Stock Media - AAA Game Character Police Officer\VOXLaff_Police Officer Laugh Vocal Male 1.wav|1169080
+Epic Stock Media - AAA Game Character Police Officer\VOXMale_Police Officer Custom Lines Vocal Male Emergency Shots Fired Need Backup.wav|1392658
+Epic Stock Media - Anime Game\DSGNMisc_Misc Monster Tentacle Modulated Creature Shadow Abstract Swept Wobble Lfo 02_ESM_AG.wav|1726032
+Epic Stock Media - Anime Game\DSGNStngr_Power Up Bright Positive Successful Light Saturation Crash Shimmer 05_ESM_AG.wav|1428656
+Epic Stock Media - Anime Game\EXPLDsgn_Explosion Small Blast Enemy Death Crunchy Boom Cartoon Noisy Crash Impact Delay 03_ESM_AG.wav|1402002
+Epic Stock Media - Anime Game\FGHTImpt_Combat Punch Impact Light Hit Delay Crunchy Vintage Quick Smack 05_ESM_AG.wav|1159288
+Epic Stock Media - Board Game - Sound Set Kit for Tabletop and Digital Games\GAMEBoard_Event Board Reset Organic Multiple Pieces Wood Small 02_ESM_BG.wav|771518
+Epic Stock Media - Board Game - Sound Set Kit for Tabletop and Digital Games\GAMEBoard_Game Play Piece Action Organic Connect Dots Fall Bounce 04_ESM_BG.wav|252008
+Epic Stock Media - Board Game - Sound Set Kit for Tabletop and Digital Games\PAPRHndl_Game Play Cards Dry Show Flip Toss Disgard Near 12_ESM_BG.wav|226662
+Epic Stock Media - Board Game - Sound Set Kit for Tabletop and Digital Games\UIClick_UI Button Analog Vintage Double Click Neutral Dry Press 11_ESM_BG.wav|506374
+Epic Stock Media - Elemental Mutation Whooshes and Impacts\ELECMisc_Impact Electric Tonal Deep Movement Motion Hiss Glitch 01_ESM_EMWI.wav|2513360
+Epic Stock Media - Elemental Mutation Whooshes and Impacts\FIREWhsh_Whoosh Fire Deep Growl Monster Saturated Crisp 03_ESM_EMWI.wav|1819142
+Epic Stock Media - Elemental Mutation Whooshes and Impacts\GLASMvmt_Whoosh Glass Crystal Fragments Sharp Shards Dry 05_ESM_EMWI.wav|1905280
+Epic Stock Media - Elemental Mutation Whooshes and Impacts\WATRImpt_Impact Water Deep Submerge Bubble Drown Ship Hit 05_ESM_EMWI.wav|1638358
+Epic Stock Media - Fake Advertisements and Radio Sound Effects Audio Construction Kit\COMStatic_Radio Ham Loop Static Hum Active Powered On Garbled Noise 01_ESM_FA.wav|13631298
+Epic Stock Media - Fake Advertisements and Radio Sound Effects Audio Construction Kit\VOXMale_Voice Wet Male Emergency Broadcast Announcement Dry War 01_ESM_FA.wav|9329650
+Epic Stock Media - Fantasy Game 2 - Sound Kit for Enchanted Realms\CLOTHFlp_Action Inventory Open Flip Cloth Canvas Bag Slide Light 02_ESM_FG2.wav|1000064
+Epic Stock Media - Fantasy Game 2 - Sound Kit for Enchanted Realms\GAMEMisc_Source Card Tarot Deck Generic Neutral Dry Heavy Shuffle 01_ESM_FG2.wav|3430834
+Epic Stock Media - Fantasy Game 2 - Sound Kit for Enchanted Realms\MAGAngl_Magic Light Spell Enchantment Potion Effect Tonal Bright 03_ESM_FG2.wav|3599350
+Epic Stock Media - Fantasy Game 2 - Sound Kit for Enchanted Realms\UIAlert_Collect Scifi Futuristic Electronic Bass Burst Sweep Heavy 04_ESM_FG2.wav|782516
+Epic Stock Media - Halloween Game - Haunted House and Horror Audio Scare Kit\CREABeast_Creature Werewolf Growl Menacing Monstrous 06_ESM_HALG.wav|3643598
+Epic Stock Media - Halloween Game - Haunted House and Horror Audio Scare Kit\DSGNEthr_Jumpscare Vocal Aggressive Whisper Harsh Distortion 02_ESM_HALG.wav|1938700
+Epic Stock Media - Halloween Game - Haunted House and Horror Audio Scare Kit\GORESplt_Gore Designed Transient Heavy Impact Smash 01_ESM_HALG.wav|1240452
+Epic Stock Media - Halloween Game - Haunted House and Horror Audio Scare Kit\UIAlert_Alert Designed Transition Swell Creature Strange Alien Layered 01_ESM_HALG.wav|3738986
+Epic Stock Media - HD Game Materials\ICEFric_Dry Ice High Metal Squeal Groan Bright Squeak Dissonant Short 13_ESM_HDGM.wav|2683684
+Epic Stock Media - HD Game Materials\ICEFric_Dry Ice Squeak Metal Animal Mouse Imitation Short 07_ESM_HDGM.wav|1682408
+Epic Stock Media - HD Game Materials\METLImpt_Metal Old File Impact Tap Against Tire Iron Metallic Hit 01_ESM_HDGM.wav|695688
+Epic Stock Media - HD Game Materials\WOODFric_Wood Shaker Microphone Head Roll Table Alternate Grainy 05_ESM_HDGM.wav|2819814
+Epic Stock Media - HD Lock And Mechanism Sound Design Kit\MACHMech_Mechanism Counting Machine Interact Loose Container Short 01_ESM_HDLM.wav|464010
+Epic Stock Media - HD Lock And Mechanism Sound Design Kit\MECHLtch_Click Deep Mechanism Latch Button Nearfield Thunk 02_ESM_HDLM.wav|588596
+Epic Stock Media - HD Lock And Mechanism Sound Design Kit\MECHMisc_Tool Tape Measure Pull Retract Spring Slide Spin Long 07_ESM_HDLM.wav|3908402
+Epic Stock Media - HD Lock And Mechanism Sound Design Kit\METLTonl_Item Spring Wire Impact Flick Top Clatter Light Tap Roll Handling Short 01_ESM_HDLM.wav|13373428
+Epic Stock Media - Humanoid Creatures Vol 4 - Monstrous and Undead Creature Vocalization Sound Sets\CREAHmn_Designed Orc Male Attack Long Heavy Hit Charged Up 03_ESM_HC4.wav|1972086
+Epic Stock Media - Humanoid Creatures Vol 4 - Monstrous and Undead Creature Vocalization Sound Sets\CREAMnstr_Designed Sea Beast Creature Pain Intense Yell Long 04_ESM_HC4.wav|3337682
+Epic Stock Media - Humanoid Creatures Vol 4 - Monstrous and Undead Creature Vocalization Sound Sets\HMNBrth_Construction Kit Male Screeching Breath Inhale Weak Squeal 05_ESM_HC4.wav|1058914
+Epic Stock Media - Humanoid Creatures Vol 4 - Monstrous and Undead Creature Vocalization Sound Sets\VOXReac_Construction Kit Male Flutter Death Vocal Stuttered Long 05_ESM_HC4.wav|3346358
+Epic Stock Media - Public Spaces - Basic Transportation Sounds\AEROInt_Airplane Interior Small Plane Cruise Altitude Calm Flight 01_ESM_CPS.wav|43520016
+Epic Stock Media - Public Spaces - Basic Transportation Sounds\AMBTraf_Downtown Construction Traffic Light Walla 03 Distant Beep_ESM_CPS.wav|69412276
+Epic Stock Media - Public Spaces - Basic Transportation Sounds\BOATMotr_Diesel Engine Boat Idle Steady Rpm Hum Motor Mic One 01_ESM_CPS.wav|15148428
+Epic Stock Media - Public Spaces - Basic Transportation Sounds\TRNElec_Electric Train Passby 02 Long Subway Slow_ESM_CPS.wav|26370208
+Epic Stock Media - Public Spaces - Crowds Walla and Everyday Ambiences\AMBPubl_Cruise Ship Walla Distant Adults Children Laughing Screaming 4_ESM_CPS.wav|81186994
+Epic Stock Media - Public Spaces - Crowds Walla and Everyday Ambiences\AMBPubl_Metro Station Entrance Hall Dings Walla Footsteps 01 Women Shopping_ESM_CPS.wav|48364560
+Epic Stock Media - Public Spaces - Crowds Walla and Everyday Ambiences\AMBWar_Paintball Match Firefight Shots Walla Nearfield Full 05_ESM_CPS.wav|46361390
+Epic Stock Media - Public Spaces - Crowds Walla and Everyday Ambiences\CRWDChld_Walla Children Kids Daytime School Playing Laughing Playground 01_ESM_CPS.wav|85048672
+Epic Stock Media - Public Spaces - Storms Lakes Parks and Rural Nature Exteriors\AMBPark_Berlin City Humboldthain Park Strong Wind On Trees Foliage Traffic Wash 03_ESM_CPS.wav|86523068
+Epic Stock Media - Public Spaces - Storms Lakes Parks and Rural Nature Exteriors\STORM_Texas Rain Thunder Initial Crash Boom Storm 01 Clap Lightning_ESM_CPS.wav|76178298
+Epic Stock Media - Public Spaces - Storms Lakes Parks and Rural Nature Exteriors\WATRLap_Summer Tennessee Lake Dock Water Ripples Wake Wave Gentle 05 Distant_ESM_CPS.wav|59457730
+Epic Stock Media - Public Spaces - Urban Life Exteriors\AMBCnst_Baltimore Construction Streetside Heavy Machinery And Jakchammers 01_ESM_CPS.wav|63458452
+Epic Stock Media - Public Spaces - Urban Life Exteriors\AMBTown_City Courtyard Calm Street Distant Traffic Children Playing 03_ESM_CPS.wav|99525332
+Epic Stock Media - Public Spaces - Urban Life Exteriors\AMBUrbn_City Nightlife Ext Street In Reutersplatz German Walla Traffic 01_ESM_CPS.wav|95376288
+Epic Stock Media - Shooter Game Announcer Voice\VOXFutz_Announcer Vocal Male Wet Countdown Ten Kills Remaining 03_ESM_SGAV.wav|1374602
+Epic Stock Media - Shooter Game Announcer Voice\VOXFutz_Announcer Vocal Male Wet Special Kill Laugh Monster Kill Hahaha 02_ESM_SGAV.wav|2290402
+Epic Stock Media - Shooter Game Announcer Voice\VOXMale_Announcer Vocal Male Dry Game Statement Objective Completed 04_ESM_SGAV.wav|887878
+Epic Stock Media - Shooter Game Announcer Voice\VOXMale_Announcer Vocal Male Dry Special Kill Headshot 01_ESM_SGAV.wav|821168
+Epic Stock Media - Strange Game Ambient Loops 3\AMBRoom_Factory Loop Heavy Machinery Tonal Roomtone Dark Wind Vent_ESM_SGA3.wav|34430034
+Epic Stock Media - Strange Game Ambient Loops 3\DSGNSynth_Dark Loop Mystic Forest Tonal Steady Synth_ESM_SGA3.wav|34912614
+Epic Stock Media - Strange Game Ambient Loops 3\DSGNSynth_Scifi Loop Ship Reactor Synth Layer Layered Saw Buzz_ESM_SGA3.wav|35095076
+Epic Stock Media - Strange Game Ambient Loops 3\MAGShim_Shimmer Loop Small Bell Metal Taps_ESM_SGA3.wav|26180810
+Epic Stock Media - Synthesized Nature Loops and Sounds\AMBTrop_Loop Ambience Jungle Night Humid Birds Bug Chirps 01_ESM_SNLS.wav|23966210
+Epic Stock Media - Synthesized Nature Loops and Sounds\ANMLAmph_Animal Frog Echo Short Squished Frequency Formant 03_ESM_SNLS.wav|1023440
+Epic Stock Media - Synthesized Nature Loops and Sounds\FIREBurn_Loop Elements Fire Crackling Crunchy Flame Burn 03_ESM_SNLS.wav|3913062
+Epic Stock Media - Synthesized Nature Loops and Sounds\WINDInt_Loop Weather Wind Whipping Constricted Flow Turbulent 01_ESM_SNLS.wav|4689984
+Epic Stock Media - Tower Defense Game\DSGNStngr_Action Deploy Units Sword Slice Special Move Layered Swish 04_ESM_TDG.wav|4666720
+Epic Stock Media - Tower Defense Game\ICEBrk_Skill Freeze Whoosh Break Impact Layered Movement Shatter 03_ESM_TDG.wav|4698230
+Epic Stock Media - Tower Defense Game\ROBTMvmt_Tower Deploy Hitech Robot Motor Dark Thump Servo Whine 04_ESM_TDG.wav|3849898
+Epic Stock Media - Tower Defense Game\WOODImpt_Hit Blood Spill Splat Wood Impact Light Hit Squelch Small Thump 03_ESM_TDG.wav|3444480
+Federico Soler - Effective Trailer Alarms Vol. 2\EffectiveTrailer_Alarms_Vol2_HalfNotes_003.wav|8641394
+Federico Soler - Effective Trailer Alarms Vol. 2\EffectiveTrailer_Alarms_Vol2_QuarterNotes_013.wav|8641394
+Federico Soler - Effective Trailer Alarms Vol. 2\EffectiveTrailer_Alarms_Vol2_WholeNotes_011.wav|8641394
+Federico Soler - Effective Trailer Booms Vol. 2\EffectiveTrailer_Booms_Vol2_011.wav|9949324
+Federico Soler - Effective Trailer Booms Vol. 2\EffectiveTrailer_Booms_Vol2_075.wav|8906404
+Federico Soler - Effective Trailer Booms Vol. 2\EffectiveTrailer_Booms_Vol2_214.wav|9371176

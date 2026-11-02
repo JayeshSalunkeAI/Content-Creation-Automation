@@ -1,0 +1,310 @@
+{
+ "schema": "ch.master/1",
+ "id": "001_paper_fold",
+ "title": "How Much Will Be The Height Of Paper Fold If We Fold It 1000 Times",
+ "fps": 30,
+ "width": 1080,
+ "height": 1920,
+ "durationFrames": 1421,
+ "mode": "A",
+ "voice": {
+  "file": "audio/voice.wav",
+  "voiceId": "am_fenrir",
+  "speed": 1.0
+ },
+ "words": {
+  "pluginFile": "timeline/words.json",
+  "framesFile": "timeline/words.frames.json"
+ },
+ "segments": [
+  {
+   "id": "seg1",
+   "type": "plugin",
+   "startFrame": 0,
+   "endFrame": 185,
+   "line": "hook question, breather bridge",
+   "plugin": {
+    "clip": "",
+    "clipOffsetFrames": 0,
+    "shotIds": [
+     "s001",
+     "s002"
+    ]
+   }
+  },
+  {
+   "id": "seg2",
+   "type": "plugin",
+   "startFrame": 185,
+   "endFrame": 839,
+   "line": "ladder of scales, universe jump",
+   "transitionIn": {
+    "type": "cut",
+    "frames": 0
+   },
+   "plugin": {
+    "clip": "",
+    "clipOffsetFrames": 185,
+    "shotIds": [
+     "s003",
+     "s004",
+     "s005",
+     "s006"
+    ]
+   }
+  },
+  {
+   "id": "seg3",
+   "type": "plugin",
+   "startFrame": 839,
+   "endFrame": 1421,
+   "line": "reality check, payoff, echo",
+   "transitionIn": {
+    "type": "cut",
+    "frames": 0
+   },
+   "plugin": {
+    "clip": "",
+    "clipOffsetFrames": 839,
+    "shotIds": [
+     "s007",
+     "s008",
+     "s009"
+    ]
+   }
+  }
+ ],
+ "overlays": [
+  {
+   "id": "rs_receiptTicker_0",
+   "kind": "receiptTicker",
+   "startFrame": 0,
+   "endFrame": 1421,
+   "props": {
+    "totalFrames": 1421,
+    "fps": 30
+   }
+  },
+  {
+   "id": "rs_takeStamp_0",
+   "kind": "takeStamp",
+   "startFrame": 0,
+   "endFrame": 54,
+   "props": {
+    "text": "SHOT 1/3",
+    "take": 1
+   }
+  },
+  {
+   "id": "rs_takeStamp_185",
+   "kind": "takeStamp",
+   "startFrame": 185,
+   "endFrame": 239,
+   "props": {
+    "text": "SHOT 2/3",
+    "take": 1
+   }
+  },
+  {
+   "id": "rs_takeStamp_839",
+   "kind": "takeStamp",
+   "startFrame": 839,
+   "endFrame": 893,
+   "props": {
+    "text": "SHOT 3/3",
+    "take": 1
+   }
+  },
+  {
+   "id": "rs_qcSeal_1347",
+   "kind": "qcSeal",
+   "startFrame": 1347,
+   "endFrame": 1421,
+   "props": {
+    "label": "QC PASS"
+   }
+  }
+ ],
+ "captions": {
+  "enabled": true,
+  "maxWords": 3,
+  "style": "brand-mvp",
+  "safe": {
+   "top": 150,
+   "bottom": 250,
+   "side": 60
+  }
+ },
+ "audio": {
+  "mixFile": "audio/mix.wav",
+  "loudnessTarget": -14,
+  "music": [
+   {
+    "trackId": "mus_cosmic_drone",
+    "startFrame": 666,
+    "endFrame": 839,
+    "gainDb": -20
+   },
+   {
+    "trackId": "mus_dark_amb",
+    "startFrame": 839,
+    "endFrame": 1004,
+    "gainDb": -24
+   }
+  ],
+  "cues": [
+   {
+    "id": "rs_entry",
+    "frame": 0,
+    "sfxId": "stg_entry_riser",
+    "gainDb": -7
+   },
+   {
+    "id": "rs_clack_1",
+    "frame": 0,
+    "sfxId": "stg_tick_clack",
+    "gainDb": -11
+   },
+   {
+    "id": "cue_hook_crack",
+    "frame": 7,
+    "sfxId": "sfx_ice_crack_snap",
+    "gainDb": -8
+   },
+   {
+    "id": "cue_fold_tick_1",
+    "frame": 124,
+    "sfxId": "stg_tick_clack",
+    "gainDb": -16
+   },
+   {
+    "id": "cue_fold_tick_2",
+    "frame": 128,
+    "sfxId": "stg_tick_clack",
+    "gainDb": -16
+   },
+   {
+    "id": "cue_fold_tick_3",
+    "frame": 133,
+    "sfxId": "stg_tick_clack",
+    "gainDb": -16
+   },
+   {
+    "id": "cue_bridge_deny",
+    "frame": 146,
+    "sfxId": "sfx_ui_deny_low",
+    "gainDb": -10
+   },
+   {
+    "id": "cue_bridge_accept",
+    "frame": 160,
+    "sfxId": "sfx_ui_accept_glassy",
+    "gainDb": -10
+   },
+   {
+    "id": "cue_reset_skyline",
+    "frame": 185,
+    "sfxId": "stg_whoosh",
+    "gainDb": -14
+   },
+   {
+    "id": "rs_clack_2",
+    "frame": 185,
+    "sfxId": "stg_tick_clack",
+    "gainDb": -11
+   },
+   {
+    "id": "cue_stamp_burj",
+    "frame": 273,
+    "sfxId": "stg_tick_clack",
+    "gainDb": -11
+   },
+   {
+    "id": "cue_stamp_everest",
+    "frame": 323,
+    "sfxId": "stg_tick_clack",
+    "gainDb": -11
+   },
+   {
+    "id": "cue_stamp_space",
+    "frame": 416,
+    "sfxId": "stg_tick_clack",
+    "gainDb": -11
+   },
+   {
+    "id": "cue_stamp_moon",
+    "frame": 460,
+    "sfxId": "stg_tick_clack",
+    "gainDb": -11
+   },
+   {
+    "id": "cue_stamp_sun",
+    "frame": 539,
+    "sfxId": "stg_tick_clack",
+    "gainDb": -11
+   },
+   {
+    "id": "cue_stamp_voyager",
+    "frame": 569,
+    "sfxId": "stg_tick_clack",
+    "gainDb": -11
+   },
+   {
+    "id": "cue_universe_boom",
+    "frame": 779,
+    "sfxId": "sfx_boom_a",
+    "gainDb": -7
+   },
+   {
+    "id": "cue_shrink_arp",
+    "frame": 803,
+    "sfxId": "sfx_arp_reveal_down",
+    "gainDb": -16
+   },
+   {
+    "id": "cue_reset_desk",
+    "frame": 839,
+    "sfxId": "sfx_debris_woosh",
+    "gainDb": -12
+   },
+   {
+    "id": "rs_clack_3",
+    "frame": 839,
+    "sfxId": "stg_tick_clack",
+    "gainDb": -11
+   },
+   {
+    "id": "cue_payoff_boom",
+    "frame": 1038,
+    "sfxId": "sfx_boom_b",
+    "gainDb": -9
+   },
+   {
+    "id": "cue_digits_shimmer",
+    "frame": 1152,
+    "sfxId": "sfx_magic_astonish",
+    "gainDb": -14
+   },
+   {
+    "id": "cue_echo_click",
+    "frame": 1240,
+    "sfxId": "sfx_ui_double_click",
+    "gainDb": -16
+   },
+   {
+    "id": "rs_qc",
+    "frame": 1347,
+    "sfxId": "stg_qc_triplet",
+    "gainDb": -8
+   }
+  ]
+ },
+ "brand": "utility",
+ "attributions": [
+  "SFX: 'Alexander Kopeikin - 100 kHz Designed Ice' (fold crack) — channel-owned GDC Game Audio Bundle 2026 license",
+  "SFX: 'Cinematic Sound Design' packs (Colossal Impacts, Interface & Infographics, System & UI Feedback, Sci-Fi Drones)",
+  "SFX: 'Federico Soler - Effective Trailer Booms Vol. 2' (universe jump + payoff)",
+  "SFX: 'Alexander Kopeikin - Emotion and Magic' (cosmic drone bed, payoff shimmer)",
+  "SFX: 'Epic Stock Media - Board Game Kit' (UI double click)"
+ ]
+}

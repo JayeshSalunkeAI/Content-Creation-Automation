@@ -1,0 +1,335 @@
+{
+  "assumptions": {
+    "thickness_m": 0.0001,
+    "thickness_source": "80 gsm standard copy paper ~= 100 um (Science American 2026; paper industry caliper)",
+    "light_year_m": 9460700000000000.0,
+    "observable_universe_diameter_m": 8.79e+26,
+    "formula": "h(n) = t * 2^n"
+  },
+  "milestones": [
+    {
+      "object": "Credit card thickness",
+      "meters": 0.0008,
+      "fold": 3,
+      "height_at_fold_m": 0.0008,
+      "height_next_below_m": 0.0004,
+      "note": "t*8 -> fold 3 stack"
+    },
+    {
+      "object": "Human height",
+      "meters": 1.7,
+      "fold": 15,
+      "height_at_fold_m": 3.2768,
+      "height_next_below_m": 1.6384,
+      "note": "taller than the folder"
+    },
+    {
+      "object": "Statue of Liberty (w/ pedestal)",
+      "meters": 93.0,
+      "fold": 20,
+      "height_at_fold_m": 104.8576,
+      "height_next_below_m": 52.4288,
+      "note": ""
+    },
+    {
+      "object": "Eiffel Tower",
+      "meters": 330.0,
+      "fold": 22,
+      "height_at_fold_m": 419.4304,
+      "height_next_below_m": 209.7152,
+      "note": ""
+    },
+    {
+      "object": "Burj Khalifa",
+      "meters": 828.0,
+      "fold": 23,
+      "height_at_fold_m": 838.8608,
+      "height_next_below_m": 419.4304,
+      "note": "tallest building on Earth"
+    },
+    {
+      "object": "Everest",
+      "meters": 8848.86,
+      "fold": 27,
+      "height_at_fold_m": 13421.7728,
+      "height_next_below_m": 6710.8864,
+      "note": "highest mountain"
+    },
+    {
+      "object": "Kármán line (space boundary)",
+      "meters": 100000.0,
+      "fold": 30,
+      "height_at_fold_m": 107374.1824,
+      "height_next_below_m": 53687.0912,
+      "note": "internationally agreed 100 km"
+    },
+    {
+      "object": "ISS orbit",
+      "meters": 408000.0,
+      "fold": 32,
+      "height_at_fold_m": 429496.7296,
+      "height_next_below_m": 214748.3648,
+      "note": "average ISS altitude"
+    },
+    {
+      "object": "Geostationary orbit",
+      "meters": 35786000.0,
+      "fold": 39,
+      "height_at_fold_m": 54975581.3888,
+      "height_next_below_m": 27487790.6944,
+      "note": "GPS 20180 km crosses fold 38"
+    },
+    {
+      "object": "The Moon (mean distance)",
+      "meters": 384400000.0,
+      "fold": 42,
+      "height_at_fold_m": 439804651.1104,
+      "height_next_below_m": 219902325.5552,
+      "note": "Earth-Moon"
+    },
+    {
+      "object": "Mars (closest approach)",
+      "meters": 54600000000.0,
+      "fold": 49,
+      "height_at_fold_m": 56294995342.1312,
+      "height_next_below_m": 28147497671.0656,
+      "note": "min Earth-Mars distance"
+    },
+    {
+      "object": "The Sun (1 AU)",
+      "meters": 149597870700.0,
+      "fold": 51,
+      "height_at_fold_m": 225179981368.5248,
+      "height_next_below_m": 112589990684.2624,
+      "note": "Earth-Sun mean"
+    },
+    {
+      "object": "Jupiter (closest)",
+      "meters": 589600000000.0,
+      "fold": 53,
+      "height_at_fold_m": 900719925474.0992,
+      "height_next_below_m": 450359962737.0496,
+      "note": ""
+    },
+    {
+      "object": "Neptune (closest)",
+      "meters": 4298000000000.0,
+      "fold": 56,
+      "height_at_fold_m": 7205759403792.794,
+      "height_next_below_m": 3602879701896.397,
+      "note": ""
+    },
+    {
+      "object": "Voyager 1 (Nov 2026 ~168 AU)",
+      "meters": 25132442277600.0,
+      "fold": 58,
+      "height_at_fold_m": 28823037615171.176,
+      "height_next_below_m": 14411518807585.588,
+      "note": "farthest human-made object"
+    },
+    {
+      "object": "1 light-year",
+      "meters": 9460700000000000.0,
+      "fold": 67,
+      "height_at_fold_m": 1.4757395258967642e+16,
+      "height_next_below_m": 7378697629483821.0,
+      "note": ""
+    },
+    {
+      "object": "Proxima Centauri",
+      "meters": 4.017013220000001e+16,
+      "fold": 69,
+      "height_at_fold_m": 5.902958103587057e+16,
+      "height_next_below_m": 2.9514790517935284e+16,
+      "note": "nearest star: 6.24 ly at fold 69"
+    },
+    {
+      "object": "Distance to Andromeda",
+      "meters": 2.3746357e+22,
+      "fold": 88,
+      "height_at_fold_m": 3.094850098213451e+22,
+      "height_next_below_m": 1.5474250491067254e+22,
+      "note": "nearest big galaxy"
+    },
+    {
+      "object": "Milky Way diameter",
+      "meters": 9.4607e+20,
+      "fold": 83,
+      "height_at_fold_m": 9.671406556917034e+20,
+      "height_next_below_m": 4.835703278458517e+20,
+      "note": "= 100,000 ly (SciAm ladder -> fold 83); a 1.0e21 m round-up crosses fold 84"
+    },
+    {
+      "object": "Laniakea supercluster span",
+      "meters": 4.919564e+24,
+      "fold": 96,
+      "height_at_fold_m": 7.922816251426434e+24,
+      "height_next_below_m": 3.961408125713217e+24,
+      "note": "largest known structure ~520 Mly"
+    },
+    {
+      "object": "Observable universe diameter",
+      "meters": 8.79e+26,
+      "fold": 103,
+      "height_at_fold_m": 1.0141204801825836e+27,
+      "height_next_below_m": 5.070602400912918e+26,
+      "note": "93 billion ly"
+    }
+  ],
+  "selected_folds": [
+    {
+      "fold": 1,
+      "height_m": 0.0002
+    },
+    {
+      "fold": 5,
+      "height_m": 0.0032
+    },
+    {
+      "fold": 7,
+      "height_m": 0.0128
+    },
+    {
+      "fold": 10,
+      "height_m": 0.1024
+    },
+    {
+      "fold": 12,
+      "height_m": 0.4096
+    },
+    {
+      "fold": 14,
+      "height_m": 1.6384
+    },
+    {
+      "fold": 17,
+      "height_m": 13.1072
+    },
+    {
+      "fold": 20,
+      "height_m": 104.8576
+    },
+    {
+      "fold": 23,
+      "height_m": 838.8608
+    },
+    {
+      "fold": 26,
+      "height_m": 6710.8864
+    },
+    {
+      "fold": 27,
+      "height_m": 13421.7728
+    },
+    {
+      "fold": 30,
+      "height_m": 107374.1824
+    },
+    {
+      "fold": 32,
+      "height_m": 429496.7296
+    },
+    {
+      "fold": 38,
+      "height_m": 27487790.6944
+    },
+    {
+      "fold": 39,
+      "height_m": 54975581.3888
+    },
+    {
+      "fold": 41,
+      "height_m": 219902325.5552
+    },
+    {
+      "fold": 42,
+      "height_m": 439804651.1104
+    },
+    {
+      "fold": 49,
+      "height_m": 56294995342.1312
+    },
+    {
+      "fold": 51,
+      "height_m": 225179981368.5248
+    },
+    {
+      "fold": 58,
+      "height_m": 28823037615171.176
+    },
+    {
+      "fold": 67,
+      "height_m": 1.4757395258967642e+16
+    },
+    {
+      "fold": 69,
+      "height_m": 5.902958103587057e+16
+    },
+    {
+      "fold": 83,
+      "height_m": 9.671406556917034e+20
+    },
+    {
+      "fold": 88,
+      "height_m": 3.094850098213451e+22
+    },
+    {
+      "fold": 96,
+      "height_m": 7.922816251426434e+24
+    },
+    {
+      "fold": 103,
+      "height_m": 1.0141204801825836e+27
+    }
+  ],
+  "gallivan_min_length_law": [
+    {
+      "fold": 12,
+      "min_length_m": 879.0961642907638
+    },
+    {
+      "fold": 13,
+      "min_length_m": 3515.0984891306757
+    },
+    {
+      "fold": 14,
+      "min_length_m": 14057.820992139412
+    },
+    {
+      "fold": 17,
+      "min_length_m": 899556.4355003096
+    },
+    {
+      "fold": 20,
+      "min_length_m": 57570458.91568408
+    },
+    {
+      "fold": 27,
+      "min_length_m": 943231721353.3298
+    }
+  ],
+  "width_shrink": [
+    {
+      "target": "bacterium (1 um)",
+      "fold": 37,
+      "width_m": 8.011272964950737e-07
+    },
+    {
+      "target": "proton radius",
+      "fold": 97,
+      "width_m": 7.461079363665298e-16
+    },
+    {
+      "target": "Planck length",
+      "fold": 228,
+      "width_m": 1.4300029837075226e-35
+    }
+  ],
+  "final_1000": {
+    "layers": "10715086071862673209484250490600018105614048117055336074437503883703510511249361224931983788156958581275946729175531468251871452856923140435984577574698574803934567774824230985421074605062371141877954182153046474983581941267398767559165543946077062914571196477686542167660429831652624386837205668069376",
+    "height_m": "1.0715086071862674e+297",
+    "height_light_years": "1.132589139478334e+281",
+    "ratio_times_observable_universe_diameter": "1.2190086543643542e+270",
+    "atoms_crossing_fold": 266
+  }
+}

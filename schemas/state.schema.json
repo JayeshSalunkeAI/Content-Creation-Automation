@@ -1,0 +1,53 @@
+# state.json schema (documented here; validated loosely by scripts)
+# videos/<id>/state.json — written/updated by every stage skill.
+#
+# {
+#   "id": "2026-11-03_demo",
+#   "schema": "ch.state/1",
+#   "fps": 30,
+#   "stages": {
+#     "P0_intake":     { "status": "done",  "finishedAt": "...", "inputHashes": {"00_brief.md": "..."} },
+#     "P1_research":   { "status": "done",  "gate": {"1": "approved 2026-11-04"} },
+#     "P2_script":     { "status": "done" },
+#     "P3_voice":      { "status": "done" },
+#     "P4_timing":     { "status": "done", "notes": "match 97%" },
+#     "P5_storyboard": { "status": "awaiting_gate3" },
+#     "P6_assets":     { "status": "pending" },
+#     "P7_shots":      { "status": "pending" },
+#     "P8_render":     { "status": "pending" },
+#     "P9_mix":        { "status": "pending" },
+#     "P10_remotion":  { "status": "pending" },
+#     "P11_qa":        { "status": "pending", "gate": null },
+#     "P12_revise":    { "status": "pending" },
+#     "P13_publish":   { "status": "pending" },
+#     "P14_log":       { "status": "pending" }
+#   }
+# }
+#
+# status ∈ pending | running | done | awaiting_gateN | failed
+# Rules: one stage running at a time; stages whose input hashes are unchanged are skipped;
+# approval recorded as gate: {"N": "approved <date>"}.
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["id", "schema", "stages"],
+  "properties": {
+    "id": { "type": "string" },
+    "schema": { "const": "ch.state/1" },
+    "fps": { "enum": [24, 30] },
+    "stages": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["status"],
+        "properties": {
+          "status": { "enum": ["pending", "running", "done", "failed"] },
+          "finishedAt": { "type": "string" },
+          "inputHashes": { "type": "object", "additionalProperties": { "type": "string" } },
+          "gate": { "type": "object", "additionalProperties": { "type": "string" } },
+          "notes": { "type": "string" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "license record — every asset, one per entry",
+  "type": "object",
+  "required": ["records"],
+  "properties": {
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["assetId", "file", "sourceUrl", "license"],
+        "properties": {
+          "assetId": { "type": "string" },
+          "file": { "type": "string" },
+          "sha256": { "type": "string" },
+          "sourceUrl": { "type": "string" },
+          "author": { "type": "string" },
+          "license": { "type": "string" },
+          "licenseUrl": { "type": "string" },
+          "attributionRequired": { "type": "boolean" },
+          "attributionText": { "type": "string" },
+          "retrievedOn": { "type": "string" },
+          "approvedBy": { "enum": ["claude-checked", "user-approved", "owner"] },
+          "notes": { "type": "string" }
+        }
+      }
+    }
+  }
+}
